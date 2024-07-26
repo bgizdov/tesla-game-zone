@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //for searching
   searchInput.addEventListener("input", function () {
     const searchText = searchInput.value.trim().toLowerCase();
-    fetch("gamesData.json")
+    fetch("assets/js/gamesData.json")
       .then((response) => response.json())
       .then((gamesData) => {
         const projectListContainer = document.querySelector(".project-list");
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //for search clearing
   clearSearchButton.addEventListener("click", function () {
     searchInput.value = "";
-    fetch("gamesData.json")
+    fetch("assets/js/gamesData.json")
       .then((response) => response.json())
       .then((gamesData) => {
         const projectListContainer = document.querySelector(".project-list");
