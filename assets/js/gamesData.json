@@ -10,25 +10,10 @@
     "gameUrl": "Simon_Game_Challenge",
     "thumbnailUrl": "Simon-game.webp"
   },
-  "4": {
-    "gameTitle": "Snake Game",
-    "gameUrl": "Snake_Game",
-    "thumbnailUrl": "Snake_Game.webp"
-  },
-  "5": {
-    "gameTitle": "Dino Runner",
-    "gameUrl": "Dino_Runner_Game",
-    "thumbnailUrl": "Dino_Runner_Game.webp"
-  },
   "6": {
     "gameTitle": "Whack a Mole",
     "gameUrl": "Whack_a_Mole",
     "thumbnailUrl": "Whack_a_Mole.webp"
-  },
-  "7": {
-    "gameTitle": "Doraemon Jump",
-    "gameUrl": "Doraemon_Jump",
-    "thumbnailUrl": "Doraemon_Jump.webp"
   },
   "8": {
     "gameTitle": "Black Jack",
@@ -40,11 +25,6 @@
     "gameUrl": "Memory_Game",
     "thumbnailUrl": "MemoryGame.webp"
   },
-  "10": {
-    "gameTitle": "Word Guessing Game",
-    "gameUrl": "Word_Guessing_Game",
-    "thumbnailUrl": "Word_Guessing_Game.webp"
-  },
   "11": {
     "gameTitle": "Ludo Game",
     "gameUrl": "Ludo_Game",
@@ -54,16 +34,6 @@
     "gameTitle": "Piano",
     "gameUrl": "Piano",
     "thumbnailUrl": "Piano_game.webp"
-  },
-  "13": {
-    "gameTitle": "Atari Breakout",
-    "gameUrl": "Atari_breakout",
-    "thumbnailUrl": "Atari_breakout.webp"
-  },
-  "14": {
-    "gameTitle": "Dinosaur Game",
-    "gameUrl": "Chrome_Dinosaur_Game",
-    "thumbnailUrl": "Chrome_dinosaur_runner.webp"
   },
   "15": {
     "gameTitle": "Color guessing Game",
@@ -75,90 +45,40 @@
     "gameUrl": "Guess_The_Number",
     "thumbnailUrl": "Guess_The_Number.webp"
   },
-  "17": {
-    "gameTitle": "Car Race",
-    "gameUrl": "race_car",
-    "thumbnailUrl": "race_car.webp"
-  },
   "18": {
     "gameTitle": "Aim training",
     "gameUrl": "Aim_Training",
     "thumbnailUrl": "Aim_Training.webp"
-  },
-  "19": {
-    "gameTitle": "Alien Shooter",
-    "gameUrl": "Alien_Shooters",
-    "thumbnailUrl": "Alien_Shooter.webp"
   },
   "20": {
     "gameTitle": "Fruit Ninja",
     "gameUrl": "Fruit_Ninja",
     "thumbnailUrl": "Fruit_Ninja_Thumbnail.webp"
   },
-  "21": {
-    "gameTitle": "Doodle jump",
-    "gameUrl": "Doodle_Jump",
-    "thumbnailUrl": "Doodle_Jump_Game.webp"
-  },
-  "22": {
-    "gameTitle": "Alphabet Game",
-    "gameUrl": "Alphabet",
-    "thumbnailUrl": "Alphabet.webp"
-  },
   "23": {
     "gameTitle": "Candy Crush",
     "gameUrl": "Candy_Crush",
     "thumbnailUrl": "candy_crush.webp"
-  },
-  "24": {
-    "gameTitle": "Word Association Game",
-    "gameUrl": "Word_Association_Game",
-    "thumbnailUrl": "Word_Association_Game.webp"
   },
   "25": {
     "gameTitle": "Tic Tac Toe",
     "gameUrl": "Tic_Tac_Toe",
     "thumbnailUrl": "Tic_Tac_Toe.png"
   },
-  "26": {
-    "gameTitle": "Flappy Bird",
-    "gameUrl": "Flappy_Bird",
-    "thumbnailUrl": "Flappy_Bird_Game.webp"
-  },
   "27": {
     "gameTitle": "Trivia it !",
     "gameUrl": "Trivia_It",
     "thumbnailUrl": "Trivia_It.webp"
-  },
-  "28": {
-    "gameTitle": "Minesweeper",
-    "gameUrl": "Minesweeper",
-    "thumbnailUrl": "Minesweeper.webp"
   },
   "29": {
     "gameTitle": "Dice Showdown",
     "gameUrl": "Dice_Showdown_Game/dicee.html",
     "thumbnailUrl": "Dice_Showdown_Game.webp"
   },
-  "30": {
-    "gameTitle": "Pac Man",
-    "gameUrl": "Pac_Man/public",
-    "thumbnailUrl": "Pac_man.webp"
-  },
-  "31": {
-    "gameTitle": "Brick Breaker",
-    "gameUrl": "Brick_Breaker",
-    "thumbnailUrl": "Brick_Breaker.webp"
-  },
   "32": {
     "gameTitle": "Magic Square",
     "gameUrl": "Magic_Square",
     "thumbnailUrl": "Magic_Square.JPG"
-  },
-  "33": {
-    "gameTitle": "Fight Game",
-    "gameUrl": "Fight_Game",
-    "thumbnailUrl": "Fight_Game.webp"
   },
   "34": {
     "gameTitle": "Light House",
@@ -170,21 +90,6 @@
     "gameUrl": "Lights_Out",
     "thumbnailUrl": "Lights_Out.webp"
   },
-  "36": {
-    "gameTitle": "Word Scramble Game",
-    "gameUrl": "Word_Scramble_Game",
-    "thumbnailUrl": "Word_Scramble_Game.webp"
-  },
-  "37": {
-    "gameTitle": "Tetris",
-    "gameUrl": "Tetris",
-    "thumbnailUrl": "Tetris.webp"
-  },
-  "38": {
-    "gameTitle": "Interactive Quizzing",
-    "gameUrl": "Interactive_Quizzing",
-    "thumbnailUrl": "Interactive_Quizzing.webp"
-  },
   "39": {
     "gameTitle": "Planet Defense",
     "gameUrl": "Planet_Defense",
@@ -195,25 +100,10 @@
     "gameUrl": "Rabbit_Rush",
     "thumbnailUrl": "rabbit.webp"
   },
-  "41": {
-    "gameTitle": "Wordle",
-    "gameUrl": "Wordle",
-    "thumbnailUrl": "Wordle.webp"
-  },
-  "42": {
-    "gameTitle": "Roll Race",
-    "gameUrl": "Roll_Race",
-    "thumbnailUrl": "Roll_Race.webp"
-  },
   "43": {
     "gameTitle": "Menja",
     "gameUrl": "Menja",
     "thumbnailUrl": "Menja.webp"
-  },
-  "44": {
-    "gameTitle": "Typing Speed Test",
-    "gameUrl": "Typing_Speed_Test_Game",
-    "thumbnailUrl": "Typing_Speed_Test.webp"
   },
   "45": {
     "gameTitle": "Tile Game",
@@ -225,35 +115,10 @@
     "gameUrl": "Stick_Hero_Game",
     "thumbnailUrl": "Stick_Hero.webp"
   },
-  "47": {
-    "gameTitle": "Starwars Character Game",
-    "gameUrl": "Starwars_Character_Game",
-    "thumbnailUrl": "starwars.webp"
-  },
-  "48": {
-    "gameTitle": "Traffic Run",
-    "gameUrl": "Traffic_Run",
-    "thumbnailUrl": "Traffic_Run.webp"
-  },
-  "49": {
-    "gameTitle": "Love Result Predictor",
-    "gameUrl": "Love_Result_Predictor",
-    "thumbnailUrl": "Love Result Predictor.webp"
-  },
-  "50": {
-    "gameTitle": "Snake and Ladders",
-    "gameUrl": "Snake_and_Ladders",
-    "thumbnailUrl": "snake_and_ladder.webp"
-  },
   "51": {
     "gameTitle": "Tower Defense",
     "gameUrl": "Tower_Defense",
     "thumbnailUrl": "tower_defense.webp"
-  },
-  "52": {
-    "gameTitle": "Bird game",
-    "gameUrl": "Bird_game",
-    "thumbnailUrl": "Bird_game.webp"
   },
   "53": {
     "gameTitle": "Bubble Blast Game",
@@ -261,11 +126,6 @@
     "thumbnailUrl": "Bubble_Blast_Game.webp"
   },
 
-  "54": {
-    "gameTitle": "Emoji Charades",
-    "gameUrl": "Emoji_Charades",
-    "thumbnailUrl": "Emoji_Charades.jpg"
-  },
 
   "55": {
     "gameTitle": "Drum Kit Game",
@@ -279,29 +139,9 @@
     "thumbnailUrl": "Rock_Paper_Scissors.png"
   },
 
-  "57": {
-    "gameTitle": "Frogger",
-    "gameUrl": "Frogger",
-    "thumbnailUrl": "Frogger.webp"
-  },
 
-  "58": {
-    "gameTitle": "Not more than 5",
-    "gameUrl": "Not_morethan5",
-    "thumbnailUrl": "!morethan5.webp"
-  },
 
-  "59": {
-    "gameTitle": "Unruly Tower",
-    "gameUrl": "Unruly_Tower",
-    "thumbnailUrl": "Unruly_Tower.webp"
-  },
 
-  "60": {
-    "gameTitle": "Maze Game",
-    "gameUrl": "MazeGame",
-    "thumbnailUrl": "MazeGame.webp"
-  },
 
   "61": {
     "gameTitle": "Connect4",
@@ -309,117 +149,27 @@
     "thumbnailUrl": "connect4.webp"
   },
 
-  "62": {
-    "gameTitle": "Spelling Bee",
-    "gameUrl": "Spelling_Bee",
-    "thumbnailUrl": "spelling_bee.webp"
-  },
 
-  "63": {
-    "gameTitle": "2048",
-    "gameUrl": "2048",
-    "thumbnailUrl": "2048.webp"
-  },
 
-  "64": {
-    "gameTitle": "Spin the wheel",
-    "gameUrl": "Spin_the_wheel",
-    "thumbnailUrl": "Spin_the_wheel.webp"
-  },
-  "65": {
-    "gameTitle": "Breakout",
-    "gameUrl": "Breakout",
-    "thumbnailUrl": "Breakout.webp"
-  },
   "66": {
     "gameTitle": "Maths Sprint Game",
     "gameUrl": "Maths_Sprint_Game",
     "thumbnailUrl": "Maths_Sprint_Game.png"
-  },
-  "67": {
-    "gameTitle": "Platform Game",
-    "gameUrl": "Platform_Game",
-    "thumbnailUrl": "Platform_Game.webp"
-  },
-  "68": {
-    "gameTitle": "Keyboard Hero",
-    "gameUrl": "Keyboard_Hero",
-    "thumbnailUrl": "Keyboard_Hero.webp"
   },
   "69": {
     "gameTitle": "Squashing Your Enemy",
     "gameUrl": "Squashing_your_Enemy",
     "thumbnailUrl": "Squashing_Your_Enemy.webp"
   },
-  "70": {
-    "gameTitle": "Avax Gods",
-    "gameUrl": "Avax_Gods",
-    "thumbnailUrl": "Avax_Gods.webp"
-  },
   "71": {
     "gameTitle": "Flip Card Game",
     "gameUrl": "Flip_Card_Game",
     "thumbnailUrl": "Flip_Card_Game.webp"
   },
-  "72": {
-    "gameTitle": "Bingo_Game",
-    "gameUrl": "Bingo_Game",
-    "thumbnailUrl": "Bingo_Game.webp"
-  },
-  "73": {
-    "gameTitle": "Fifteen Puzzle Game",
-    "gameUrl": "Fifteen_Puzzle_Game",
-    "thumbnailUrl": "fifteen_puzzle.webp"
-  },
-  "74": {
-    "gameTitle": "Stack_Game",
-    "gameUrl": "Stack_Game",
-    "thumbnailUrl": "Stack_Game.webp"
-  },
-  "75": {
-    "gameTitle": "Block Io",
-    "gameUrl": "Block.io",
-    "thumbnailUrl": "block.io.webp"
-  },
-  "76": {
-    "gameTitle": "Country Guesser Game",
-    "gameUrl": "Country_Guesser_Game",
-    "thumbnailUrl": "Country_Guesser_Game.webp"
-  },
-  "77": {
-    "gameTitle": "Touch The Ball",
-    "gameUrl": "Touch_The_Ball",
-    "thumbnailUrl": "touch_the_ball.webp"
-  },
-  "78": {
-    "gameTitle": "Sudoku",
-    "gameUrl": "Sudoku",
-    "thumbnailUrl": "sudoku.webp"
-  },
-  "79": {
-    "gameTitle": "Mini Golf",
-    "gameUrl": "Mini_Golf",
-    "thumbnailUrl": "Mini_Golf.webp"
-  },
   "80": {
     "gameTitle": "Rubik's Solver",
     "gameUrl": "Rubik's_solver",
     "thumbnailUrl": "cube_Solver.webp"
-  },
-  "81": {
-    "gameTitle": "Shoot_The_Balloon",
-    "gameUrl": "Shoot_The_Balloon",
-    "thumbnailUrl": "shoot_the_ball.webp"
-  },
-  "82": {
-    "gameTitle": "Don't Die To Ghosts",
-    "gameUrl": "Dont_Die_To_Ghosts",
-    "thumbnailUrl": "dont_die_to_ghosts.webp"
-  },
-  "83": {
-    "gameTitle": "SciFi Alchemy",
-    "gameUrl": "SciFi_Alchemy",
-    "thumbnailUrl": "scifi_alchemy.webp"
   },
   "84": {
     "gameTitle": "Packabunchas",
@@ -436,75 +186,15 @@
     "gameUrl": "Track_Not_Found",
     "thumbnailUrl": "Track_Not_Found.jpg"
   },
-  "87": {
-    "gameTitle": "Love Calci",
-    "gameUrl": "Love_Calci/love.html",
-    "thumbnailUrl": "Love_Calci.webp"
-  },
-  "88": {
-    "gameTitle": "Planet Game",
-    "gameUrl": "Planet_Game",
-    "thumbnailUrl": "planet_game.webp"
-  },
   "89": {
     "gameTitle": "Snake Ladder",
     "gameUrl": "Snake_Ladder",
     "thumbnailUrl": "snake_and_ladder.webp"
   },
-  "90": {
-    "gameTitle": "Among Us",
-    "gameUrl": "Among_Us_Game",
-    "thumbnailUrl": "amongus.webp"
-  },
-  "91": {
-    "gameTitle": "Pokedex",
-    "gameUrl": "Pokedex",
-    "thumbnailUrl": "pokedex.webp"
-  },
-  "92": {
-    "gameTitle": "Pacific Air Battle",
-    "gameUrl": "Pacific_Air_Battle",
-    "thumbnailUrl": "Pacific_Air_Battle.jpg"
-  },
-  "93": {
-    "gameTitle": "Dante",
-    "gameUrl": "Dante",
-    "thumbnailUrl": "Dante.jpg"
-  },
-  "94": {
-    "gameTitle": "Ping Pong Multiplayer",
-    "gameUrl": "Ping_Pong_Multiplayer",
-    "thumbnailUrl": "Ping_Pong_Multiplayer.jpg"
-  },
-  "95": {
-    "gameTitle": "Sonic The Hedgehog",
-    "gameUrl": "Sonic_The_Hedgehog",
-    "thumbnailUrl": "Sonic_The_Hedgehog.jpg"
-  },
   "96": {
     "gameTitle": "World_Of_Emojis",
     "gameUrl": "World_Of_Emojis",
     "thumbnailUrl": "World_Of_Emojis.jpg"
-  },
-  "97": {
-    "gameTitle": "Ball Fall Game",
-    "gameUrl": "Ball_Fall_Game",
-    "thumbnailUrl": "ball_fall.webp"
-  },
-  "98": {
-    "gameTitle": "Pinball",
-    "gameUrl": "Pinball",
-    "thumbnailUrl": "pinball.webp"
-  },
-  "99": {
-    "gameTitle": "Duck Hunting Game",
-    "gameUrl": "Duck_Hunting_Game",
-    "thumbnailUrl": "Duck_Hunting_Game.webp"
-  },
-  "100": {
-    "gameTitle": "Color Matcher",
-    "gameUrl": "color matcher",
-    "thumbnailUrl": "Color_Matcher.webp"
   },
   "101": {
     "gameTitle": "Catch the Bunny",
