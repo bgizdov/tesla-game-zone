@@ -826,21 +826,6 @@
     "gameUrl": "automated_rock_paper_scissor",
     "thumbnailUrl": "automated_rock_paper_scissors.png"
   },
-  "428":{
-    "gameTitle" : "Ball Shooting Game",
-    "gameUrl": "Ball_Shooting_Game",
-    "thumbnailUrl": "Ball_Shooting_Game.png"
-  },
-  "429":{
-    "gameTitle" : "Balloon Buster",
-    "gameUrl": "Balloon_Buster",
-    "thumbnailUrl": "Balloon_Buster.jpeg"
-  },
-  "430":{
-    "gameTitle" : "Bash Mole",
-    "gameUrl": "Bash_mole",
-    "thumbnailUrl": "Bash_mole.png"
-  },
   "431":{
     "gameTitle" : "Bear Hunter Ninja",
     "gameUrl": "Bear_Hunter_Ninja",
@@ -850,41 +835,6 @@
     "gameTitle" : "Beat A Mole",
     "gameUrl": "Beat_a_mole",
     "thumbnailUrl": "Whack_a_Mole_Mario_Version.png"
-  },
-  "433":{
-    "gameTitle" : "Black Jack 2",
-    "gameUrl": "Black_Jackk",
-    "thumbnailUrl": "Black_jackk.png"
-  },
-  "434":{
-    "gameTitle" : "Block Game",
-    "gameUrl": "Block Game",
-    "thumbnailUrl": "Block Game.jpg"
-  },
-  "435":{
-    "gameTitle" : "Block Building",
-    "gameUrl": "Block_Building",
-    "thumbnailUrl": "Block_Building.png"
-  },
-  "436":{
-    "gameTitle" : "Bunny is Lost",
-    "gameUrl": "Bunny_is_Lost",
-    "thumbnailUrl": "Bunny_is_Lost.png"
-  },
-  "437":{
-    "gameTitle" : "Block Ninja",
-    "gameUrl": "Block_Ninja",
-    "thumbnailUrl": "Block_Ninja.png"
-  },
-  "438":{
-    "gameTitle" : "Bomb Throw",
-    "gameUrl": "Bomb Throw Game",
-    "thumbnailUrl": "Bomb Throw Game.png"
-  },
-  "439":{
-    "gameTitle" : "Bottle Flip",
-    "gameUrl": "Bottle_Flip",
-    "thumbnailUrl": "BottleFlip_ss.png"
   },
   "440":{
     "gameTitle" : "Bouncing Ball",
@@ -931,35 +881,15 @@
     "gameUrl": "Catch the falling Stars",
     "thumbnailUrl": "Catch the Falling Stars.png"
   },
-  "449":{
-    "gameTitle" : "Catch Craze",
-    "gameUrl": "Catch_Craze",
-    "thumbnailUrl": "Catch_Craze.png"
-  },
   "450":{
     "gameTitle" : "Catch Stars",
     "gameUrl": "Catch_Stars",
     "thumbnailUrl": "Catch_Stars.jpeg"
   },
-  "451":{
-    "gameTitle" : "Catch The Ball",
-    "gameUrl": "Catch_The_Ball",
-    "thumbnailUrl": "Catch_The_Ball.png"
-  },
-  "452":{
-    "gameTitle" : "Catch The Circle",
-    "gameUrl": "Catch_The_Circle",
-    "thumbnailUrl": "Catch_The_Circle.png"
-  },
   "453":{
     "gameTitle" : "Catch The Falling Object",
     "gameUrl": "Catch_The_Falling_Object",
     "thumbnailUrl": "Catch_the_falling_object-1.png"
-  },
-  "454":{
-    "gameTitle" : "Catch The Ball",
-    "gameUrl": "CatchTheBall",
-    "thumbnailUrl": "CatchTheBall.png"
   },
   "455":{
     "gameTitle" : "Chess Game with Computer",
@@ -986,11 +916,6 @@
     "gameUrl": "Color_Shifter",
     "thumbnailUrl": "Color_Shifter.png"
   },
-  "460":{
-    "gameTitle" : "Color Swap",
-    "gameUrl": "Color_Swap",
-    "thumbnailUrl": "Color_Swap.png"
-  },
   "461":{
     "gameTitle" : "Color Turner",
     "gameUrl": "Color_Turner",
@@ -1011,21 +936,6 @@
     "gameUrl": "Connect_Four",
     "thumbnailUrl":"Connect-Four.png" 
   },
-  "465":{
-    "gameTitle" : "Cooking Challenge Game",
-    "gameUrl": "Cooking_Challenge_Game",
-    "thumbnailUrl":"Cooking_Challenge_Game.png" 
-  },
-  "466":{
-    "gameTitle" : "Copy Cat",
-    "gameUrl": "CopyCat",
-    "thumbnailUrl":"CopyCat1.png" 
-  },
-  "467":{
-    "gameTitle" : "Corona Fighter",
-    "gameUrl": "Corona_Fighter",
-    "thumbnailUrl":"corona_fighter.png" 
-  },
   "468":{
     "gameTitle" : "Cosmic Blast",
     "gameUrl": "Cosmic_Blast",
@@ -1041,11 +951,6 @@
     "gameUrl": "Currency_Converter",
     "thumbnailUrl":"Currency_Converter.png" 
   },
-  "471":{
-    "gameTitle" : "Dice Game",
-    "gameUrl": "Dice_Game",
-    "thumbnailUrl":"Dice_Game.png" 
-  },
   "472":{
     "gameTitle" : "Dinosaur Memory Game",
     "gameUrl": "Dinosaur_Memory_Game",
@@ -1055,16 +960,6 @@
     "gameTitle" : "Disney Trivia",
     "gameUrl": "Disney_Trivia",
     "thumbnailUrl":"Disney_Trivia.png" 
-  },
-  "474":{
-    "gameTitle" : "Dodge The Blocks",
-    "gameUrl": "Dodge the Blocks",
-    "thumbnailUrl":"dodge_the_blocks.png" 
-  },
-  "475":{
-    "gameTitle" : "Doraemon Run",
-    "gameUrl": "DoraemonRun",
-    "thumbnailUrl":"DoraemonRun.png" 
   },
   "476":{
     "gameTitle" : "Dot Box Game",
@@ -1086,75 +981,20 @@
     "gameUrl": "Dsa_quiz_game",
     "thumbnailUrl":"Dsa_quiz_game.png" 
   },
-  "480":{
-    "gameTitle" : "Emoji Slot Machine",
-    "gameUrl": "Emoji_slot_machine",
-    "thumbnailUrl":"Emoji_slot_machine.png" 
-  },
   "481":{
     "gameTitle" : "Etch a Sketch 2",
     "gameUrl": "Etch_a_Sketch_2",
     "thumbnailUrl":"Etch_a_Sketch_2.png" 
-  },
-  "482":{
-    "gameTitle" : "Falling Words",
-    "gameUrl": "Falling_Words",
-    "thumbnailUrl":"Falling_words.png" 
-  },
-  "483":{
-    "gameTitle" : "find the Ball",
-    "gameUrl": "find_the_ball",
-    "thumbnailUrl":"Find_the_ball.jpeg" 
-  },
-  "484":{
-    "gameTitle" : "Firedog Adventure",
-    "gameUrl": "Firedog_Adventure",
-    "thumbnailUrl":"Firedog_Adventure.png" 
-  },
-  "485":{
-    "gameTitle" : "Five Nights at Freddys",
-    "gameUrl": "Five_Nights_at_Freddys/public/index.html",
-    "thumbnailUrl":"Five_Nights_at_Freddys.png" 
-  },
-  "486":{
-    "gameTitle" : "Flames",
-    "gameUrl": "Flames Game",
-    "thumbnailUrl":"Flames Game.png" 
   },
   "487":{
     "gameTitle" : "flappy Bubble Sofa",
     "gameUrl": "Flappy_Bubble_Sofa",
     "thumbnailUrl":"Flappy_Bubble_Sofa.png" 
   },
-  "488":{
-    "gameTitle" : "Forest Guardian",
-    "gameUrl": "Forest_Guardian",
-    "thumbnailUrl":"Forest_guardian.png" 
-  },
-  "489":{
-    "gameTitle" : "fruit Catching 2",
-    "gameUrl": "Fruit_Catching_Game",
-    "thumbnailUrl":"fruit_catch_game.png" 
-  },
   "490":{
     "gameTitle" : "Fruit Slicer Game",
     "gameUrl": "Fruit_Slicer_Game",
     "thumbnailUrl":"Fruit-Slicer.png" 
-  },
-  "491":{
-    "gameTitle" : "fruit Catcher",
-    "gameUrl": "FruitCatcher",
-    "thumbnailUrl":"FruitCatcher.png" 
-  },
-  "492":{
-    "gameTitle" : "Ganesh QR Maker",
-    "gameUrl": "Ganesh QR Maker",
-    "thumbnailUrl":"Ganesh QR Maker.png" 
-  },
-  "493":{
-    "gameTitle" : "Ghost Busting game",
-    "gameUrl": "Ghost_busting_game",
-    "thumbnailUrl":"ghost_busting_game.png" 
   },
   "494":{
     "gameTitle" : "Go Fish Master",
@@ -1166,31 +1006,6 @@
     "gameUrl": "Gobblet",
     "thumbnailUrl":"Gobblet.png" 
   },
-  "496":{
-    "gameTitle" : "Go Fish",
-    "gameUrl": "GoFish",
-    "thumbnailUrl":"GoFish.png" 
-  },
-  "497":{
-    "gameTitle" : "Grab The Carrot",
-    "gameUrl": "Grab_The_Carrot",
-    "thumbnailUrl":"Grab_The_Carrot.png" 
-  },
-  "498":{
-    "gameTitle" : "Gravity Simulation",
-    "gameUrl": "Gravity_Simulation_Game",
-    "thumbnailUrl":"Gravity_Simulation_Game.png" 
-  },
-  "499":{
-    "gameTitle" : "Guess Num",
-    "gameUrl": "Guess_num",
-    "thumbnailUrl":"Guess_num.png" 
-  },
-  "500":{
-    "gameTitle" : "Guess the Friends Name",
-    "gameUrl": "Guess_the_friends_name",
-    "thumbnailUrl":"Guess_the_friends_name.png" 
-  },
   "501":{
     "gameTitle" : "Guess the Murderer",
     "gameUrl": "Guess_The_Murderer",
@@ -1200,21 +1015,6 @@
     "gameTitle" : "Guess Who",
     "gameUrl": "Guess_Who",
     "thumbnailUrl":"Guess_Who.png" 
-  },
-  "503":{
-    "gameTitle" : "Harmony Mixer",
-    "gameUrl": "Harmony_Mixer",
-    "thumbnailUrl":"Harmony_Mixer.png" 
-  },
-  "504":{
-    "gameTitle" : "Hedgehog Havoc",
-    "gameUrl": "Hedgehog_Hovoc",
-    "thumbnailUrl":"Hedgehog_Havoc.png" 
-  },
-  "505":{
-    "gameTitle" : "Helicopter Game",
-    "gameUrl": "Helicopter_Game",
-    "thumbnailUrl":"helicopter-game.png" 
   },
   "506":{
     "gameTitle" : "Hexsweep Game",
@@ -1230,11 +1030,6 @@
     "gameTitle" : "Hit the Hamster",
     "gameUrl": "Hit_the_hamster",
     "thumbnailUrl":"Hit_the_hamster_game.png" 
-  },
-  "509":{
-    "gameTitle" : "Hit Or Miss",
-    "gameUrl": "HitOrMiss",
-    "thumbnailUrl":"HitOrMiss.png" 
   },
   "510":{
     "gameTitle" : "Hit Your Friend",
