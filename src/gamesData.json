@@ -1,0 +1,1614 @@
+{
+  "games": [
+    {
+      "gameTitle": "Tilting Maze",
+      "gameUrl": "Tilting_Maze",
+      "thumbnailUrl": "Tilting_Maze.webp"
+    },
+    {
+      "gameTitle": "Simon Game",
+      "gameUrl": "Simon_Game_Challenge",
+      "thumbnailUrl": "Simon-game.webp"
+    },
+    {
+      "gameTitle": "Whack a Mole",
+      "gameUrl": "Whack_a_Mole",
+      "thumbnailUrl": "Whack_a_Mole.webp"
+    },
+    {
+      "gameTitle": "Black Jack",
+      "gameUrl": "Black_Jack",
+      "thumbnailUrl": "Black_Jack.webp"
+    },
+    {
+      "gameTitle": "Memory Game",
+      "gameUrl": "Memory_Game",
+      "thumbnailUrl": "MemoryGame.webp"
+    },
+    {
+      "gameTitle": "Ludo Game",
+      "gameUrl": "Ludo_Game",
+      "thumbnailUrl": "Ludo_Game.png"
+    },
+    {
+      "gameTitle": "Piano",
+      "gameUrl": "Piano",
+      "thumbnailUrl": "Piano_game.webp"
+    },
+    {
+      "gameTitle": "Color guessing Game",
+      "gameUrl": "Colour_Guessing_Game",
+      "thumbnailUrl": "Colour_Guessing_Game.webp"
+    },
+    {
+      "gameTitle": "Guess the Number",
+      "gameUrl": "Guess_The_Number",
+      "thumbnailUrl": "Guess_The_Number.webp"
+    },
+    {
+      "gameTitle": "Aim training",
+      "gameUrl": "Aim_Training",
+      "thumbnailUrl": "Aim_Training.webp"
+    },
+    {
+      "gameTitle": "Fruit Ninja",
+      "gameUrl": "Fruit_Ninja",
+      "thumbnailUrl": "Fruit_Ninja_Thumbnail.webp"
+    },
+    {
+      "gameTitle": "Candy Crush",
+      "gameUrl": "Candy_Crush",
+      "thumbnailUrl": "candy_crush.webp"
+    },
+    {
+      "gameTitle": "Tic Tac Toe",
+      "gameUrl": "Tic_Tac_Toe",
+      "thumbnailUrl": "Tic_Tac_Toe.png"
+    },
+    {
+      "gameTitle": "Trivia it !",
+      "gameUrl": "Trivia_It",
+      "thumbnailUrl": "Trivia_It.webp"
+    },
+    {
+      "gameTitle": "Dice Showdown",
+      "gameUrl": "Dice_Showdown_Game/dicee.html",
+      "thumbnailUrl": "Dice_Showdown_Game.webp"
+    },
+    {
+      "gameTitle": "Magic Square",
+      "gameUrl": "Magic_Square",
+      "thumbnailUrl": "Magic_Square.JPG"
+    },
+    {
+      "gameTitle": "Light House",
+      "gameUrl": "Lighthouse",
+      "thumbnailUrl": "LightHouse.webp"
+    },
+    {
+      "gameTitle": "Lights Out !",
+      "gameUrl": "Lights_Out",
+      "thumbnailUrl": "Lights_Out.webp"
+    },
+    {
+      "gameTitle": "Planet Defense",
+      "gameUrl": "Planet_Defense",
+      "thumbnailUrl": "Planet_Defense.webp"
+    },
+    {
+      "gameTitle": "Rabbit Rush",
+      "gameUrl": "Rabbit_Rush",
+      "thumbnailUrl": "rabbit.webp"
+    },
+    {
+      "gameTitle": "Menja",
+      "gameUrl": "Menja",
+      "thumbnailUrl": "Menja.webp"
+    },
+    {
+      "gameTitle": "Tile Game",
+      "gameUrl": "Tile_Game",
+      "thumbnailUrl": "Tile_Game.jpg"
+    },
+    {
+      "gameTitle": "Stick Hero Game",
+      "gameUrl": "Stick_Hero_Game",
+      "thumbnailUrl": "Stick_Hero.webp"
+    },
+    {
+      "gameTitle": "Tower Defense",
+      "gameUrl": "Tower_Defense",
+      "thumbnailUrl": "tower_defense.webp"
+    },
+    {
+      "gameTitle": "Bubble Blast Game",
+      "gameUrl": "Bubble_Blast_Game",
+      "thumbnailUrl": "Bubble_Blast_Game.webp"
+    },
+    {
+      "gameTitle": "Drum Kit Game",
+      "gameUrl": "Drum_Kit_Game",
+      "thumbnailUrl": "Drum_And_Kit.webp"
+    },
+    {
+      "gameTitle": "Rock Paper Scissors",
+      "gameUrl": "Rock_Paper_Scissors",
+      "thumbnailUrl": "Rock_Paper_Scissors.png"
+    },
+    {
+      "gameTitle": "Connect4",
+      "gameUrl": "Connect4",
+      "thumbnailUrl": "connect4.webp"
+    },
+    {
+      "gameTitle": "Maths Sprint Game",
+      "gameUrl": "Maths_Sprint_Game",
+      "thumbnailUrl": "Maths_Sprint_Game.png"
+    },
+    {
+      "gameTitle": "Squashing Your Enemy",
+      "gameUrl": "Squashing_your_Enemy",
+      "thumbnailUrl": "Squashing_Your_Enemy.webp"
+    },
+    {
+      "gameTitle": "Flip Card Game",
+      "gameUrl": "Flip_Card_Game",
+      "thumbnailUrl": "Flip_Card_Game.webp"
+    },
+    {
+      "gameTitle": "Rubik's Solver",
+      "gameUrl": "Rubik's_solver",
+      "thumbnailUrl": "cube_Solver.webp"
+    },
+    {
+      "gameTitle": "Packabunchas",
+      "gameUrl": "Packabunchas",
+      "thumbnailUrl": "packabunchas.webp"
+    },
+    {
+      "gameTitle": "Cast and Catch",
+      "gameUrl": "Cast_and_Catch",
+      "thumbnailUrl": "Cast_and_Catch.webp"
+    },
+    {
+      "gameTitle": "Track Not Found",
+      "gameUrl": "Track_Not_Found",
+      "thumbnailUrl": "Track_Not_Found.jpg"
+    },
+    {
+      "gameTitle": "Snake Ladder",
+      "gameUrl": "Snake_Ladder",
+      "thumbnailUrl": "snake_and_ladder.webp"
+    },
+    {
+      "gameTitle": "World_Of_Emojis",
+      "gameUrl": "World_Of_Emojis",
+      "thumbnailUrl": "World_Of_Emojis.jpg"
+    },
+    {
+      "gameTitle": "Catch the Bunny",
+      "gameUrl": "Catch_the_Bunny",
+      "thumbnailUrl": "Catch_the_Bunny.webp"
+    },
+    {
+      "gameTitle": "Blanks Detective",
+      "gameUrl": "Blanks_Detective",
+      "thumbnailUrl": "Blanks Detective.webp"
+    },
+    {
+      "gameTitle": "Movie Guessing Game",
+      "gameUrl": "Movie_Guessing_Game",
+      "thumbnailUrl": "Movie_Guessing_Game.webp"
+    },
+    {
+      "gameTitle": "Wildcard Bonanza",
+      "gameUrl": "Wildcard_Bonanza",
+      "thumbnailUrl": "Wildcard_Bonanza.webp"
+    },
+    {
+      "gameTitle": "Space Exploration",
+      "gameUrl": "Space_Exploration",
+      "thumbnailUrl": "space_exploration.webp"
+    },
+    {
+      "gameTitle": "I want to Google",
+      "gameUrl": "I_Want_To_Google_The_Game",
+      "thumbnailUrl": "I_Want_To_Google_The_Game.jpg"
+    },
+    {
+      "gameTitle": "Glitch Buster",
+      "gameUrl": "Glitch_Buster",
+      "thumbnailUrl": "Glitch_Buster.jpg"
+    },
+    {
+      "gameTitle": "Retro Dungeon Puzzle",
+      "gameUrl": "Retro_Dungeon_Puzzle",
+      "thumbnailUrl": "Retro_Dungeon_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Immunity Collapse",
+      "gameUrl": "Immunity_Collapse",
+      "thumbnailUrl": "Immunity_Collapse.jpg"
+    },
+    {
+      "gameTitle": "Emoji Puzzle Game",
+      "gameUrl": "Emoji_Puzzle_Game",
+      "thumbnailUrl": "Emoji_Puzzle_Game.webp"
+    },
+    {
+      "gameTitle": "Squared Lines",
+      "gameUrl": "Squared_lines",
+      "thumbnailUrl": "Squared Lines.webp"
+    },
+    {
+      "gameTitle": "Space War",
+      "gameUrl": "Space_War",
+      "thumbnailUrl": "space_war.webp"
+    },
+    {
+      "gameTitle": "Sciarra Of Colors",
+      "gameUrl": "Sciarra_Of_Colors",
+      "thumbnailUrl": "Sciarra_Of_Colors.webp"
+    },
+    {
+      "gameTitle": "JunoJs",
+      "gameUrl": "JunoJs",
+      "thumbnailUrl": "junojs.webp"
+    },
+    {
+      "gameTitle": "Fall Down",
+      "gameUrl": "Fall_Down",
+      "thumbnailUrl": "falldown.webp"
+    },
+    {
+      "gameTitle": "Free Bird",
+      "gameUrl": "Free_Bird",
+      "thumbnailUrl": "Free_Bird.jpg"
+    },
+    {
+      "gameTitle": "Maximise Boxes",
+      "gameUrl": "MaximiseBoxes",
+      "thumbnailUrl": "MaximiseBoxes.webp"
+    },
+    {
+      "gameTitle": "Slide Puzzle",
+      "gameUrl": "Slide_Puzzle",
+      "thumbnailUrl": "Slide_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Diamond Run",
+      "gameUrl": "Diamond_Run",
+      "thumbnailUrl": "diamond_run.webp"
+    },
+    {
+      "gameTitle": "Duck Hunt",
+      "gameUrl": "DuckHunt",
+      "thumbnailUrl": "DuckHunt.webp"
+    },
+    {
+      "gameTitle": "Plankman",
+      "gameUrl": "Plankman",
+      "thumbnailUrl": "Plankman.webp"
+    },
+    {
+      "gameTitle": "Unlock The Lock",
+      "gameUrl": "Unlock_The_Lock",
+      "thumbnailUrl": "unlock_the_lock.webp"
+    },
+    {
+      "gameTitle": "Swift",
+      "gameUrl": "Swift",
+      "thumbnailUrl": "swift.webp"
+    },
+    {
+      "gameTitle": "Spacepi",
+      "gameUrl": "Spacepi",
+      "thumbnailUrl": "spacepi.webp"
+    },
+    {
+      "gameTitle": "Word_search_puzzle",
+      "gameUrl": "Word_search_puzzle",
+      "thumbnailUrl": "Word_search_puzzle.webp"
+    },
+    {
+      "gameTitle": "Shpere",
+      "gameUrl": "Shpere",
+      "thumbnailUrl": "shpere.webp"
+    },
+    {
+      "gameTitle": "Canon Defense",
+      "gameUrl": "Canon_Defense",
+      "thumbnailUrl": "canon_defense.webp"
+    },
+    {
+      "gameTitle": "CHESS",
+      "gameUrl": "CHESS",
+      "thumbnailUrl": "Chess.jpg"
+    },
+    {
+      "gameTitle": "Norman The Necromancer",
+      "gameUrl": "Norman_The_Necromancer",
+      "thumbnailUrl": "Norman_The_Necromancer.jpg"
+    },
+    {
+      "gameTitle": "Shape Blocks",
+      "gameUrl": "Shape_Blocks",
+      "thumbnailUrl": "shape_block.webp"
+    },
+    {
+      "gameTitle": "Oh Flip",
+      "gameUrl": "oh_flip",
+      "thumbnailUrl": "oh_flip.webp"
+    },
+    {
+      "gameTitle": "HangMan",
+      "gameUrl": "HangMan",
+      "thumbnailUrl": "HangMan.webp"
+    },
+    {
+      "gameTitle": "Earth Destroyer",
+      "gameUrl": "Earth_Destroyer",
+      "thumbnailUrl": "earth_destroyer.webp"
+    },
+    {
+      "gameTitle": "Drag And Drop Puzzle",
+      "gameUrl": "Drag_And_Drop_Puzzle",
+      "thumbnailUrl": "Drag_And_Drop_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Music Guess Game",
+      "gameUrl": "Music_Guess_Game",
+      "thumbnailUrl": "Music_Guess_Game.webp"
+    },
+    {
+      "gameTitle": "Tower Of Hanoi",
+      "gameUrl": "Tower_Of_Hanoi",
+      "thumbnailUrl": "tower_of_hanoi.webp"
+    },
+    {
+      "gameTitle": "Mastermind Mania",
+      "gameUrl": "Mastermind_Mania",
+      "thumbnailUrl": "Mastermind_Mania.webp"
+    },
+    {
+      "gameTitle": "Air Balloon",
+      "gameUrl": "AirBalloon",
+      "thumbnailUrl": "AirBalloon.webp"
+    },
+    {
+      "gameTitle": "Cut The Rope",
+      "gameUrl": "Cut_the_rope",
+      "thumbnailUrl": "Cut_the_rope.webp"
+    },
+    {
+      "gameTitle": "Monster Maker",
+      "gameUrl": "Monster_Maker",
+      "thumbnailUrl": "Monster_Maker.webp"
+    },
+    {
+      "gameTitle": "Stolen Sword",
+      "gameUrl": "Stolen_Sword",
+      "thumbnailUrl": "Stolen_Sword.jpg"
+    },
+    {
+      "gameTitle": "Master Mind",
+      "gameUrl": "Mastemind",
+      "thumbnailUrl": "Mastermind.webp"
+    },
+    {
+      "gameTitle": "Bulls eye",
+      "gameUrl": "BullseyeGame",
+      "thumbnailUrl": "Bulls_eye.png"
+    },
+    {
+      "gameTitle": "Cross Word",
+      "gameUrl": "Crossword_Game",
+      "thumbnailUrl": "Crossword_Game.webp"
+    },
+    {
+      "gameTitle": "Guess the correct logo",
+      "gameUrl": "Guess_The_Correct_Logo",
+      "thumbnailUrl": "Guess_The_Correct_Logo.webp"
+    },
+    {
+      "gameTitle": "Painting Game",
+      "gameUrl": "Painting_Game",
+      "thumbnailUrl": "Painting_Game.webp"
+    },
+    {
+      "gameTitle": "LinkUp",
+      "gameUrl": "linkup",
+      "thumbnailUrl": "linkup.webp"
+    },
+    {
+      "gameTitle": "Trivia card",
+      "gameUrl": "Trivia_Card",
+      "thumbnailUrl": "Trivia_Card.webp"
+    },
+    {
+      "gameTitle": "Insect Catch",
+      "gameUrl": "Insect_Catch_Game",
+      "thumbnailUrl": "Insect_Catch_Game.webp"
+    },
+    {
+      "gameTitle": "Carnival Game",
+      "gameUrl": "Carnival_game",
+      "thumbnailUrl": "Carnival_game.webp"
+    },
+    {
+      "gameTitle": "Make Me Laugh",
+      "gameUrl": "Make_Me_Laugh",
+      "thumbnailUrl": "Make_Me_Laugh.webp"
+    },
+    {
+      "gameTitle": "Dungeon Crawler",
+      "gameUrl": "Dungeon_Crawler",
+      "thumbnailUrl": "Dungeon_Crawler.jpg"
+    },
+    {
+      "gameTitle": "Chess",
+      "gameUrl": "AI_CHESS_Game",
+      "thumbnailUrl": "chess.webp"
+    },
+    {
+      "gameTitle": "Dots and Boxes",
+      "gameUrl": "Dots_and_Boxes_Game",
+      "thumbnailUrl": "Dots_and_Boxes_Game.webp"
+    },
+    {
+      "gameTitle": "Mario Matching",
+      "gameUrl": "mario_matching_game",
+      "thumbnailUrl": "Mario Matching.webp"
+    },
+    {
+      "gameTitle": "Hand Cricket",
+      "gameUrl": "Hand_Cricket",
+      "thumbnailUrl": "Hand_cricket.webp"
+    },
+    {
+      "gameTitle": "Crossword Puzzle",
+      "gameUrl": "Crossword_Puzzle",
+      "thumbnailUrl": "Crossword_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Pixel Painter",
+      "gameUrl": "Pixel_Painter",
+      "thumbnailUrl": "Pixel_Painter.webp"
+    },
+    {
+      "gameTitle": "Riddle Room",
+      "gameUrl": "Riddle_Room",
+      "thumbnailUrl": "Riddle_Room.webp"
+    },
+    {
+      "gameTitle": "Escape Room",
+      "gameUrl": "Escape_room",
+      "thumbnailUrl": "Escape_room.webp"
+    },
+    {
+      "gameTitle": "Doodle Draw",
+      "gameUrl": "Doodle_Draw",
+      "thumbnailUrl": "Doodle_Draw.webp"
+    },
+    {
+      "gameTitle": "Arcade Game",
+      "gameUrl": "Arcade_Game",
+      "thumbnailUrl": "Arcade_Game.webp"
+    },
+    {
+      "gameTitle": "Slice Storm",
+      "gameUrl": "Slice_Storm",
+      "thumbnailUrl": "Slice_Storm.webp"
+    },
+    {
+      "gameTitle": "CareTaker",
+      "gameUrl": "CareTaker",
+      "thumbnailUrl": "CareTaker.webp"
+    },
+    {
+      "gameTitle": "UNO",
+      "gameUrl": "UNO",
+      "thumbnailUrl": "UNO.webp"
+    },
+    {
+      "gameTitle": "Guess The_Random Shape",
+      "gameUrl": "Guess_The_Random_Shape",
+      "thumbnailUrl": "Guess_The_Random_Shape.webp"
+    },
+    {
+      "gameTitle": "Animal Match Game",
+      "gameUrl": "Animal_Match_Game",
+      "thumbnailUrl": "Animal_Match_Game.webp"
+    },
+    {
+      "gameTitle": "Hextris",
+      "gameUrl": "Hextris",
+      "thumbnailUrl": "hextris.webp"
+    },
+    {
+      "gameTitle": "Checkers",
+      "gameUrl": "Checkers",
+      "thumbnailUrl": "Checkers.webp"
+    },
+    {
+      "gameTitle": "Roulette",
+      "gameUrl": "Roulette",
+      "thumbnailUrl": "Roulette.webp"
+    },
+    {
+      "gameTitle": "Adventure Game",
+      "gameUrl": "Adventure_Game",
+      "thumbnailUrl": "Adventure_Game.webp"
+    },
+    {
+      "gameTitle": "Pumpkin Pursuit",
+      "gameUrl": "Pumpkin_Pursuit",
+      "thumbnailUrl": "Pumpkin_Pursuit.webp"
+    },
+    {
+      "gameTitle": "Corona Shooter",
+      "gameUrl": "Corona_Shooter",
+      "thumbnailUrl": "Corona_Shooter.webp"
+    },
+    {
+      "gameTitle": "Baseketball",
+      "gameUrl": "Baseketball",
+      "thumbnailUrl": "Basketball.webp"
+    },
+    {
+      "gameTitle": "Math Game",
+      "gameUrl": "Math_Game",
+      "thumbnailUrl": "Math_Game.webp"
+    },
+    {
+      "gameTitle": "Shadow PokeGuess",
+      "gameUrl": "Shadow_PokeGuess",
+      "thumbnailUrl": "Shadow_PokeGuess.webp"
+    },
+    {
+      "gameTitle": "Brain Color Mastermind",
+      "gameUrl": "Brain_Color_Mastermind",
+      "thumbnailUrl": "Brain Color Mastermind.webp"
+    },
+    {
+      "gameTitle": "Chicken Cannon",
+      "gameUrl": "Chicken_Cannon",
+      "thumbnailUrl": "Chicken_cannon.png"
+    },
+    {
+      "gameTitle": "Trio Match",
+      "gameUrl": "Trio_Match",
+      "thumbnailUrl": "Trio_Match.png"
+    },
+    {
+      "gameTitle": "Reversi",
+      "gameUrl": "Reversi",
+      "thumbnailUrl": "reversi.png"
+    },
+    {
+      "gameTitle": "Brain Burst Game",
+      "gameUrl": "Brain_Burst_Game",
+      "thumbnailUrl": "Brain_Burst_Game.png"
+    },
+    {
+      "gameTitle": "Bow And Arrow",
+      "gameUrl": "Bow_And_Arrow",
+      "thumbnailUrl": "Bow_And_Arrow.png"
+    },
+    {
+      "gameTitle": "Beyblade",
+      "gameUrl": "Beyblade",
+      "thumbnailUrl": "Beyblade.png"
+    },
+    {
+      "gameTitle": "Guitar Game",
+      "gameUrl": "Guitar_Game",
+      "thumbnailUrl": "Guitar_Game.png"
+    },
+    {
+      "gameTitle": "Solitaire",
+      "gameUrl": "Solitaire",
+      "thumbnailUrl": "Solitaire.png"
+    },
+    {
+      "gameTitle": "Asteroids 3D",
+      "gameUrl": "Asteroids_3D",
+      "thumbnailUrl": "Asteroids_3D.png"
+    },
+    {
+      "gameTitle": "Etch a Sketch",
+      "gameUrl": "Etch_a_Sketch",
+      "thumbnailUrl": "Etch-a-Sketch.png"
+    },
+    {
+      "gameTitle": "QuizzApp",
+      "gameUrl": "QuizzApp",
+      "thumbnailUrl": "quizzApp1.png"
+    },
+    {
+      "gameTitle": "Slime Attack ",
+      "gameUrl": "Slime_attack_game",
+      "thumbnailUrl": "Slime Attack.jpg"
+    },
+    {
+      "gameTitle": "Star_Trek_Trivia",
+      "gameUrl": "Star_Trek_Trivia",
+      "thumbnailUrl": "Star_trek_img.png"
+    },
+    {
+      "gameTitle": "Puzzle-Game",
+      "gameUrl": "puzzle-game",
+      "thumbnailUrl": "puzzle-game.png"
+    },
+    {
+      "gameTitle": "Block Buster",
+      "gameUrl": "Block_Buster",
+      "thumbnailUrl": "Block_Buster.png"
+    },
+    {
+      "gameTitle": "Doremon Puzzle",
+      "gameUrl": "Doremon_Puzzle",
+      "thumbnailUrl": "Doremon_Puzzle.png"
+    },
+    {
+      "gameTitle": "Guess The Celebrity",
+      "gameUrl": "Guess_The_Celeb",
+      "thumbnailUrl": "Guess_The_Celeb.webp"
+    },
+    {
+      "gameTitle": "Hit_Target",
+      "gameUrl": "Hit_Target",
+      "thumbnailUrl": "Hit_Target.png"
+    },
+    {
+      "gameTitle": "Puzzle_Game",
+      "gameUrl": "Puzzle_Game",
+      "thumbnailUrl": "avengers.png"
+    },
+    {
+      "gameTitle": "Quizify",
+      "gameUrl": "Quizify",
+      "thumbnailUrl": "Quizify.png"
+    },
+    {
+      "gameTitle": "Guess_The_Song",
+      "gameUrl": "Guess_The_Song",
+      "thumbnailUrl": "Guess_The_Song.png"
+    },
+    {
+      "gameTitle": "Know Your Country",
+      "gameUrl": "Know_Your_Country",
+      "thumbnailUrl": "Know_Your_Country.png"
+    },
+    {
+      "gameTitle": "Musical_Floor",
+      "gameUrl": "Musical_Floor",
+      "thumbnailUrl": "Musical_Floor.png"
+    },
+    {
+      "gameTitle": "Smashing_Blocks",
+      "gameUrl": "Smashing_Blocks",
+      "thumbnailUrl": "Smashing_Blocks.png"
+    },
+    {
+      "gameTitle": "Response_Reaction",
+      "gameUrl": "Response_Reaction",
+      "thumbnailUrl": "Response_Reaction.png"
+    },
+    {
+      "gameTitle": "Truth and Dare",
+      "gameUrl": "Truth_and_Dare",
+      "thumbnailUrl": "Truth_And_Dare.png"
+    },
+    {
+      "gameTitle": "Rotating_Elements",
+      "gameUrl": "Rotating_Elements",
+      "thumbnailUrl": "Rotating_Elements.png"
+    },
+    {
+      "gameTitle": "Chopsticks",
+      "gameUrl": "Chopsticks",
+      "thumbnailUrl": "Chopsticks.png"
+    },
+    {
+      "gameTitle": "Anime Clicker",
+      "gameUrl": "Anime_Clicker",
+      "thumbnailUrl": "Anime_Clicker.png"
+    },
+    {
+      "gameTitle": "Flip Coin",
+      "gameUrl": "Flip_Coin",
+      "thumbnailUrl": "Flip_Coin.png"
+    },
+    {
+      "gameTitle": "Witty Word Quest",
+      "gameUrl": "witty_word_quest",
+      "thumbnailUrl": "witty_word_quest.png"
+    },
+    {
+      "gameTitle": "Candy match",
+      "gameUrl": "Candy_Match_Saga",
+      "thumbnailUrl": "Candy_match_saga.jpg"
+    },
+    {
+      "gameTitle": "Technical_Mind_Game",
+      "gameUrl": "Technical_Mind_Game",
+      "thumbnailUrl": "Technical_Mind_Game.png"
+    },
+    {
+      "gameTitle": "Memory Cards Game",
+      "gameUrl": "Memory_Cards_Game",
+      "thumbnailUrl": "Memory_Cards_Game.png"
+    },
+    {
+      "gameTitle": "Dice Roller",
+      "gameUrl": "Dice_Roller",
+      "thumbnailUrl": "Dice_Roller.png"
+    },
+    {
+      "gameTitle": "path finder",
+      "gameUrl": "path_finder",
+      "thumbnailUrl": "Path_finder.png"
+    },
+    {
+      "gameTitle": "Chess.com",
+      "gameUrl": "Chess.com",
+      "thumbnailUrl": "Chess.com.jpg"
+    },
+    {
+      "gameTitle": "Dot Connect",
+      "gameUrl": "Dot_Connect",
+      "thumbnailUrl": "Dot_Connect.png"
+    },
+    {
+      "gameTitle": "Tower Stack",
+      "gameUrl": "Tower_Stack",
+      "thumbnailUrl": "Tower_Stack.png"
+    },
+    {
+      "gameTitle": "Tiny Fishing",
+      "gameUrl": "Tiny_Fishing",
+      "thumbnailUrl": "Tiny-Fishing.png"
+    },
+    {
+      "gameTitle": "Hover_Board_Effect",
+      "gameUrl": "Hover_Board_Effect",
+      "thumbnailUrl": "Hover_Board_Effect.png"
+    },
+    {
+      "gameTitle": "Candy Crush Saga",
+      "gameUrl": "Candy_Crush_Saga",
+      "thumbnailUrl": "Candy_Crush_Saga.png"
+    },
+    {
+      "gameTitle": "16_Puzzle",
+      "gameUrl": "16_Puzzle",
+      "thumbnailUrl": "16_Puzzle.png"
+    },
+    {
+      "gameTitle": "8 Puzzle Game",
+      "gameUrl": "8_Puzzle",
+      "thumbnailUrl": "8_Puzzle.png"
+    },
+    {
+      "gameTitle": "Align 4 balls",
+      "gameUrl": "Align_4_Game",
+      "thumbnailUrl": "Align_4_Game.png"
+    },
+    {
+      "gameTitle": "Ant Smasher",
+      "gameUrl": "Ant_Smasher",
+      "thumbnailUrl": "Ant_Smasher_Demo.png"
+    },
+    {
+      "gameTitle": "Aqua Sort",
+      "gameUrl": "AquaSort_Game",
+      "thumbnailUrl": "AquaSort.png"
+    },
+    {
+      "gameTitle": "Audio Wordle",
+      "gameUrl": "Audio_Wordle",
+      "thumbnailUrl": "Audio_Wordle.png"
+    },
+    {
+      "gameTitle": "Automated Rock Paper Scissors",
+      "gameUrl": "automated_rock_paper_scissor",
+      "thumbnailUrl": "automated_rock_paper_scissors.png"
+    },
+    {
+      "gameTitle": "Bear Hunter Ninja",
+      "gameUrl": "Bear_Hunter_Ninja",
+      "thumbnailUrl": "Bear_Hunter_Ninja.png"
+    },
+    {
+      "gameTitle": "Beat A Mole",
+      "gameUrl": "Beat_a_mole",
+      "thumbnailUrl": "Whack_a_Mole_Mario_Version.png"
+    },
+    {
+      "gameTitle": "Bouncing Ball",
+      "gameUrl": "Bouncing_Ball_Game",
+      "thumbnailUrl": "Bouncing_Ball_Game.png"
+    },
+    {
+      "gameTitle": "Yahtzee",
+      "gameUrl": "Yahtzee",
+      "thumbnailUrl": "Yahtzee.png"
+    },
+    {
+      "gameTitle": "Brain card",
+      "gameUrl": "Brain_card_game",
+      "thumbnailUrl": "braincard.png"
+    },
+    {
+      "gameTitle": "Bubble shooter",
+      "gameUrl": "Bubble_Shooter",
+      "thumbnailUrl": "Bubble Shooter.png"
+    },
+    {
+      "gameTitle": "Building Block Game",
+      "gameUrl": "Building Block Game",
+      "thumbnailUrl": "Building Block Game.png"
+    },
+    {
+      "gameTitle": "Carrom",
+      "gameUrl": "Carrom",
+      "thumbnailUrl": "carrom pic.jpg"
+    },
+    {
+      "gameTitle": "Cartoon Character Guessing",
+      "gameUrl": "Cartoon_Character_Guessing_Game",
+      "thumbnailUrl": "Cartoon_Character_Guessing_Game.png"
+    },
+    {
+      "gameTitle": "Catch Him",
+      "gameUrl": "Catch Him",
+      "thumbnailUrl": "Catch_him.png"
+    },
+    {
+      "gameTitle": "Catch The Falling Stars",
+      "gameUrl": "Catch the falling Stars",
+      "thumbnailUrl": "Catch the Falling Stars.png"
+    },
+    {
+      "gameTitle": "Catch Stars",
+      "gameUrl": "Catch_Stars",
+      "thumbnailUrl": "Catch_Stars.jpeg"
+    },
+    {
+      "gameTitle": "Catch The Falling Object",
+      "gameUrl": "Catch_The_Falling_Object",
+      "thumbnailUrl": "Catch_the_falling_object-1.png"
+    },
+    {
+      "gameTitle": "Chess Game with Computer",
+      "gameUrl": "Chess_Game_computer",
+      "thumbnailUrl": "chessComputer.png"
+    },
+    {
+      "gameTitle": "City Builder",
+      "gameUrl": "City_Builder_Game",
+      "thumbnailUrl": "City_Builder_Game.png"
+    },
+    {
+      "gameTitle": "Claw Crane",
+      "gameUrl": "clawCrane",
+      "thumbnailUrl": "clawCrane.png"
+    },
+    {
+      "gameTitle": "Color Matching Application",
+      "gameUrl": "color_matching_application",
+      "thumbnailUrl": "color_matching_application.png"
+    },
+    {
+      "gameTitle": "Color Shifter",
+      "gameUrl": "Color_Shifter",
+      "thumbnailUrl": "Color_Shifter.png"
+    },
+    {
+      "gameTitle": "Color Turner",
+      "gameUrl": "Color_Turner",
+      "thumbnailUrl": "Color Turner.png"
+    },
+    {
+      "gameTitle": "Color ON",
+      "gameUrl": "Coloron",
+      "thumbnailUrl": "Coloron.png"
+    },
+    {
+      "gameTitle": "Computer Bingo",
+      "gameUrl": "Computer_Bingo",
+      "thumbnailUrl": "Computer_Bingo.png"
+    },
+    {
+      "gameTitle": "Connect Four",
+      "gameUrl": "Connect_Four",
+      "thumbnailUrl": "Connect-Four.png"
+    },
+    {
+      "gameTitle": "Cosmic Blast",
+      "gameUrl": "Cosmic_Blast",
+      "thumbnailUrl": "Cosmic_Blast.png"
+    },
+    {
+      "gameTitle": "Cross The River",
+      "gameUrl": "Cross_The_River_Game",
+      "thumbnailUrl": "Cross_The_River.png"
+    },
+    {
+      "gameTitle": "Currency Converter",
+      "gameUrl": "Currency_Converter",
+      "thumbnailUrl": "Currency_Converter.png"
+    },
+    {
+      "gameTitle": "Dinosaur Memory Game",
+      "gameUrl": "Dinosaur_Memory_Game",
+      "thumbnailUrl": "Dinosaur_memory_game.png"
+    },
+    {
+      "gameTitle": "Disney Trivia",
+      "gameUrl": "Disney_Trivia",
+      "thumbnailUrl": "Disney_Trivia.png"
+    },
+    {
+      "gameTitle": "Dot Box Game",
+      "gameUrl": "Dot_Box_Game",
+      "thumbnailUrl": "Dot_Box_Game.png"
+    },
+    {
+      "gameTitle": "Dot Dash",
+      "gameUrl": "Dot_Dash",
+      "thumbnailUrl": "Dot_Dash.png"
+    },
+    {
+      "gameTitle": "Drawing App",
+      "gameUrl": "Drawing_app",
+      "thumbnailUrl": "Drawing_app.png"
+    },
+    {
+      "gameTitle": "Dsa Quiz",
+      "gameUrl": "Dsa_quiz_game",
+      "thumbnailUrl": "Dsa_quiz_game.png"
+    },
+    {
+      "gameTitle": "Etch a Sketch 2",
+      "gameUrl": "Etch_a_Sketch_2",
+      "thumbnailUrl": "Etch_a_Sketch_2.png"
+    },
+    {
+      "gameTitle": "flappy Bubble Sofa",
+      "gameUrl": "Flappy_Bubble_Sofa",
+      "thumbnailUrl": "Flappy_Bubble_Sofa.png"
+    },
+    {
+      "gameTitle": "Fruit Slicer Game",
+      "gameUrl": "Fruit_Slicer_Game",
+      "thumbnailUrl": "Fruit-Slicer.png"
+    },
+    {
+      "gameTitle": "Go Fish Master",
+      "gameUrl": "Go-fish-master",
+      "thumbnailUrl": "Go-fish-master.png"
+    },
+    {
+      "gameTitle": "Gobblet",
+      "gameUrl": "Gobblet",
+      "thumbnailUrl": "Gobblet.png"
+    },
+    {
+      "gameTitle": "Guess the Murderer",
+      "gameUrl": "Guess_The_Murderer",
+      "thumbnailUrl": "Guess_The_Murderer.png"
+    },
+    {
+      "gameTitle": "Guess Who",
+      "gameUrl": "Guess_Who",
+      "thumbnailUrl": "Guess_Who.png"
+    },
+    {
+      "gameTitle": "Hexsweep Game",
+      "gameUrl": "Hexsweep-Game",
+      "thumbnailUrl": "Hexsweep-Game.png"
+    },
+    {
+      "gameTitle": "Hide And Seek",
+      "gameUrl": "Hide_And_Seek",
+      "thumbnailUrl": "Hide_and_Seek.png"
+    },
+    {
+      "gameTitle": "Hit the Hamster",
+      "gameUrl": "Hit_the_hamster",
+      "thumbnailUrl": "Hit_the_hamster_game.png"
+    },
+    {
+      "gameTitle": "Hit Your Friend",
+      "gameUrl": "HitYourFriend",
+      "thumbnailUrl": "Hit-Your-Friend.png"
+    },
+    {
+      "gameTitle": "Html5 Controller Tester",
+      "gameUrl": "HTML5_Controller_Tester",
+      "thumbnailUrl": "HTML5_Controller_Tester.png"
+    },
+    {
+      "gameTitle": "Idle Miner",
+      "gameUrl": "Idle_miner",
+      "thumbnailUrl": "Idle_miner.png"
+    },
+    {
+      "gameTitle": "I Know You-Mind Reading Game",
+      "gameUrl": "IKnowYou-Mind-Reading-Game",
+      "thumbnailUrl": "IKnowYou-Mind-Reading-Game.png"
+    },
+    {
+      "gameTitle": "Intellect Quest",
+      "gameUrl": "Intellect_Quest",
+      "thumbnailUrl": "Intellect_Quest.png"
+    },
+    {
+      "gameTitle": "Jigsaw Puzzle",
+      "gameUrl": "Jigsaw_Puzzle",
+      "thumbnailUrl": "Jigsaw_Puzzle.png"
+    },
+    {
+      "gameTitle": "Key Symphony",
+      "gameUrl": "KeySymphony",
+      "thumbnailUrl": "KeySymphony.png"
+    },
+    {
+      "gameTitle": "Kill The Bird",
+      "gameUrl": "Kill_The_Bird",
+      "thumbnailUrl": "killthebird.jpeg"
+    },
+    {
+      "gameTitle": "King Of Pirates Quiz",
+      "gameUrl": "King_Of_Pirates_Quiz",
+      "thumbnailUrl": "King_Of_Pirates.jpg"
+    },
+    {
+      "gameTitle": "Knife Thrower",
+      "gameUrl": "Knife-Thrower",
+      "thumbnailUrl": "Knife-Thrower.png"
+    },
+    {
+      "gameTitle": "Laser Darts",
+      "gameUrl": "LaserDarts",
+      "thumbnailUrl": "LaserDarts.png"
+    },
+    {
+      "gameTitle": "Letter Sleuth",
+      "gameUrl": "Letter_Sleuth",
+      "thumbnailUrl": "Letter_Sleuth.png"
+    },
+    {
+      "gameTitle": "Love Calculator Game",
+      "gameUrl": "Love Calculator Game",
+      "thumbnailUrl": "Love calculator game.png"
+    },
+    {
+      "gameTitle": "Lunar Lander",
+      "gameUrl": "Lunar_Lander",
+      "thumbnailUrl": "Lunar_Lander.png"
+    },
+    {
+      "gameTitle": "Madlibs",
+      "gameUrl": "Madlibs",
+      "thumbnailUrl": "Madlibs.png"
+    },
+    {
+      "gameTitle": "Magic 8 Ball",
+      "gameUrl": "Magic_8_ball",
+      "thumbnailUrl": "Magic_8_ball.png"
+    },
+    {
+      "gameTitle": "Makeover Game",
+      "gameUrl": "Makeover_Game",
+      "thumbnailUrl": "Makeover_Game.png"
+    },
+    {
+      "gameTitle": "Mamba_Mayhem",
+      "gameUrl": "Mamba Mayhem",
+      "thumbnailUrl": "Mamba_Mayhem.png"
+    },
+    {
+      "gameTitle": "Mancala game",
+      "gameUrl": "Mancala_Game",
+      "thumbnailUrl": "Mancala_Game.jpeg"
+    },
+    {
+      "gameTitle": "Mansion Mystery",
+      "gameUrl": "Mansion_Mystery",
+      "thumbnailUrl": "Mansion_Mystery.png"
+    },
+    {
+      "gameTitle": "Mario gmae",
+      "gameUrl": "mario-game",
+      "thumbnailUrl": "mario-game.png"
+    },
+    {
+      "gameTitle": "Match Color Game",
+      "gameUrl": "Match_Color_Game",
+      "thumbnailUrl": "Match_Color_Game.png"
+    },
+    {
+      "gameTitle": "Mathematics Escape Room",
+      "gameUrl": "MathematicsEscapeRoom",
+      "thumbnailUrl": "MathematicsEscapeRoom.png"
+    },
+    {
+      "gameTitle": "Maze Runner",
+      "gameUrl": "MazeRunner",
+      "thumbnailUrl": "MazeRunner.png"
+    },
+    {
+      "gameTitle": "Memory Flip",
+      "gameUrl": "Memory Flip",
+      "thumbnailUrl": "Memory_Flip.png"
+    },
+    {
+      "gameTitle": "Memory Matching Game",
+      "gameUrl": "Memory_Matching_Game",
+      "thumbnailUrl": "Memory_Matching_Game.png"
+    },
+    {
+      "gameTitle": "Modulo Game",
+      "gameUrl": "Modulo_Game",
+      "thumbnailUrl": "Modulo_Game.png"
+    },
+    {
+      "gameTitle": "Mole",
+      "gameUrl": "Mole",
+      "thumbnailUrl": "mole.png"
+    },
+    {
+      "gameTitle": "Morse Code Generator",
+      "gameUrl": "Morse_Code_Generator",
+      "thumbnailUrl": "Morse_Code_Generator.png"
+    },
+    {
+      "gameTitle": "Musical Memory",
+      "gameUrl": "Musical_Memory",
+      "thumbnailUrl": "Musical_Memory.png"
+    },
+    {
+      "gameTitle": "My Mine Sweeper",
+      "gameUrl": "my_mine_sweeper",
+      "thumbnailUrl": "my_mine_sweeper.png"
+    },
+    {
+      "gameTitle": "Number Recall Game",
+      "gameUrl": "Number_Recall_Game",
+      "thumbnailUrl": "Number_recall_game (1).png"
+    },
+    {
+      "gameTitle": "News Junction",
+      "gameUrl": "NewsJunction",
+      "thumbnailUrl": "NewsJunction.png"
+    },
+    {
+      "gameTitle": "Noughts and Crosses",
+      "gameUrl": "Nought_And_Crosses",
+      "thumbnailUrl": "Noughts_And_Crosses.png"
+    },
+    {
+      "gameTitle": "Number Whiz",
+      "gameUrl": "numeral-whiz",
+      "thumbnailUrl": "numeral-whiz.png"
+    },
+    {
+      "gameTitle": "Othello",
+      "gameUrl": "Othello",
+      "thumbnailUrl": "Othello.png"
+    },
+    {
+      "gameTitle": "OutRun Offline Game",
+      "gameUrl": "OutRun_Offline_Game",
+      "thumbnailUrl": "Outrun.png"
+    },
+    {
+      "gameTitle": "Pac Man Game",
+      "gameUrl": "Pac_Man_Game",
+      "thumbnailUrl": "Pac_Man_Thumbnail.png"
+    },
+    {
+      "gameTitle": "Pattern Creation Game",
+      "gameUrl": "Pattern_Creation_Game",
+      "thumbnailUrl": "Pattern_Creation_Game.png"
+    },
+    {
+      "gameTitle": "Physics Quizz",
+      "gameUrl": "Physics_Quizz",
+      "thumbnailUrl": "Physics_Quizz.png"
+    },
+    {
+      "gameTitle": "Pictionary Game",
+      "gameUrl": "Pictionary_Game",
+      "thumbnailUrl": "Pictionary.png"
+    },
+    {
+      "gameTitle": "Ping Pong SinglePlayer",
+      "gameUrl": "Ping_Pong_Singleplayer",
+      "thumbnailUrl": "Ping_Pong_Singleplayer.png"
+    },
+    {
+      "gameTitle": "Pokemon Stats Card",
+      "gameUrl": "Pokemon_Stats_Card",
+      "thumbnailUrl": "Pokemon_Stats_Card.png"
+    },
+    {
+      "gameTitle": "Pong",
+      "gameUrl": "Pong",
+      "thumbnailUrl": "Pong.png"
+    },
+    {
+      "gameTitle": "Pop the Bubbles",
+      "gameUrl": "Pop_the_Bubbles",
+      "thumbnailUrl": "Pop_the_Bubbles.png"
+    },
+    {
+      "gameTitle": "Pottery Game",
+      "gameUrl": "Pottery-Game",
+      "thumbnailUrl": "Pottery.png"
+    },
+    {
+      "gameTitle": "Zombie Shooter",
+      "gameUrl": "Zombie_Shooter",
+      "thumbnailUrl": "Zombie_Shooter.png"
+    },
+    {
+      "gameTitle": "Quest For Richer",
+      "gameUrl": "Quest_For_Riches",
+      "thumbnailUrl": "Quest_For_Riches.png"
+    },
+    {
+      "gameTitle": "Quick Click",
+      "gameUrl": "Quick_Click",
+      "thumbnailUrl": "Quick Click.png"
+    },
+    {
+      "gameTitle": "Quick fingers",
+      "gameUrl": "QuickFingers",
+      "thumbnailUrl": "QuickFingers.png"
+    },
+    {
+      "gameTitle": "Quiz Game",
+      "gameUrl": "quiz_game",
+      "thumbnailUrl": "quiz_game.png"
+    },
+    {
+      "gameTitle": "Quiz It Out",
+      "gameUrl": "Quiz_it_out",
+      "thumbnailUrl": "Quiz_it_out.png"
+    },
+    {
+      "gameTitle": "Random Advice Generator",
+      "gameUrl": "Random_Advice_Generator",
+      "thumbnailUrl": "Random_Advice_Generator.png"
+    },
+    {
+      "gameTitle": "Random Joke Generator",
+      "gameUrl": "Random_Joke_Generator",
+      "thumbnailUrl": "Random_Joke_Generator.jpeg"
+    },
+    {
+      "gameTitle": "Recognizing Figures",
+      "gameUrl": "recognizing_Figures",
+      "thumbnailUrl": "Recognizing_Figures.jpeg"
+    },
+    {
+      "gameTitle": "Red Light Green Light",
+      "gameUrl": "Red_Light_Green_Light",
+      "thumbnailUrl": "Red_Light_Green_Light.png"
+    },
+    {
+      "gameTitle": "Reflex Game",
+      "gameUrl": "Reflex_Game",
+      "thumbnailUrl": "Reflex_Game.png"
+    },
+    {
+      "gameTitle": "Remember The Color",
+      "gameUrl": "Remember_the_color",
+      "thumbnailUrl": "Remember_the_color.png"
+    },
+    {
+      "gameTitle": "Reverse Memory",
+      "gameUrl": "Reverse Memory",
+      "thumbnailUrl": "Reverse_Memory.png"
+    },
+    {
+      "gameTitle": "Road Car",
+      "gameUrl": "road_car",
+      "thumbnailUrl": "road_car.png"
+    },
+    {
+      "gameTitle": "Rock paper scissor",
+      "gameUrl": "Rock_paper_scissor",
+      "thumbnailUrl": "Rock_paper_scissor.png"
+    },
+    {
+      "gameTitle": "Rock Paper Scissors Neon",
+      "gameUrl": "Rock_Paper_Scissors_Neon",
+      "thumbnailUrl": "Rock_Paper_Scissors_Neon.png"
+    },
+    {
+      "gameTitle": "Roll The Dice",
+      "gameUrl": "Roll_The_Dice",
+      "thumbnailUrl": "Roll_The_Dice.png"
+    },
+    {
+      "gameTitle": "Run Dora Run",
+      "gameUrl": "Run_Dora_Run",
+      "thumbnailUrl": "Run_Dora_Run.png"
+    },
+    {
+      "gameTitle": "Samurai Fighting",
+      "gameUrl": "Samurai_Fighting_Game",
+      "thumbnailUrl": "Samurai Fighting Game.png"
+    },
+    {
+      "gameTitle": "Shape Finder",
+      "gameUrl": "Shape Finder",
+      "thumbnailUrl": "Shape Finder.png"
+    },
+    {
+      "gameTitle": "Shell Game",
+      "gameUrl": "Shell_Game",
+      "thumbnailUrl": "Shell_Game.png"
+    },
+    {
+      "gameTitle": "Shoot Duck Game",
+      "gameUrl": "Shoot_Duck_Game",
+      "thumbnailUrl": "Shoot_Duck_Game.png"
+    },
+    {
+      "gameTitle": "Simon Says",
+      "gameUrl": "simon says",
+      "thumbnailUrl": "Simon_Says.png"
+    },
+    {
+      "gameTitle": "Single Player Solitaire",
+      "gameUrl": "Single_Player_Solitaire",
+      "thumbnailUrl": "Single_Player_Solitaire.png"
+    },
+    {
+      "gameTitle": "Slide Master Puzzle",
+      "gameUrl": "Slide_Master_Puzzle",
+      "thumbnailUrl": "Slide_Master_Puzzle.png"
+    },
+    {
+      "gameTitle": "Sliding Puzzle",
+      "gameUrl": "Sliding_puzzle",
+      "thumbnailUrl": "Sliding_puzzle.png"
+    },
+    {
+      "gameTitle": "Snake",
+      "gameUrl": "snake",
+      "thumbnailUrl": "snake.png"
+    },
+    {
+      "gameTitle": "Snake Bites",
+      "gameUrl": "SnakeBites/snake_Bites.html",
+      "thumbnailUrl": "SnakeBites.png"
+    },
+    {
+      "gameTitle": "Solitaire Up",
+      "gameUrl": "Solitaire_up",
+      "thumbnailUrl": "Solitaire_up.png"
+    },
+    {
+      "gameTitle": "Space Dominators",
+      "gameUrl": "Space_Dominators",
+      "thumbnailUrl": "Space_Dominators.png"
+    },
+    {
+      "gameTitle": "Space Explorer",
+      "gameUrl": "space_explorer",
+      "thumbnailUrl": "Space_Explorer.png"
+    },
+    {
+      "gameTitle": "Space Invaders",
+      "gameUrl": "Space_Invaders",
+      "thumbnailUrl": "Space Invaders.png"
+    },
+    {
+      "gameTitle": "Spell Bee",
+      "gameUrl": "Spell_Bee",
+      "thumbnailUrl": "spell_bee.png"
+    },
+    {
+      "gameTitle": "Spirograph",
+      "gameUrl": "Spirograph",
+      "thumbnailUrl": "Spirograph.png"
+    },
+    {
+      "gameTitle": "Steam Punk",
+      "gameUrl": "Steam_Punk",
+      "thumbnailUrl": "Steam_Punk.png"
+    },
+    {
+      "gameTitle": "Steampunk FlappyBird",
+      "gameUrl": "Steampunk_FlappyBird",
+      "thumbnailUrl": "Steampunk_FlappyBird.png"
+    },
+    {
+      "gameTitle": "Sudoku Light Theme",
+      "gameUrl": "Sudoku_light_theme",
+      "thumbnailUrl": "Sudoku_light_theme.png"
+    },
+    {
+      "gameTitle": "Taash Game",
+      "gameUrl": "Taash Game",
+      "thumbnailUrl": "Taash Game.png"
+    },
+    {
+      "gameTitle": "Tech Memory Block",
+      "gameUrl": "Tech_Memory_Block",
+      "thumbnailUrl": "Tech_Memory_Blocks.png"
+    },
+    {
+      "gameTitle": "Tenzies",
+      "gameUrl": "Tenzies/public",
+      "thumbnailUrl": ""
+    },
+    {
+      "gameTitle": "Test Your Brain",
+      "gameUrl": "test_your_brain",
+      "thumbnailUrl": "TEST_YOUR_BRAIN.png"
+    },
+    {
+      "gameTitle": "Tetris Game",
+      "gameUrl": "Tetris_Game",
+      "thumbnailUrl": "Tetris_Game.png"
+    },
+    {
+      "gameTitle": "Tic Tac Toe Neon",
+      "gameUrl": "Tic_Tic_Toe_Neon",
+      "thumbnailUrl": "Tic_Tac_Toe_Neon.jpg"
+    },
+    {
+      "gameTitle": "Tic Tac Toe Responsive",
+      "gameUrl": "Tic_tac_toe_responsive",
+      "thumbnailUrl": "Tic_tac_toe_responsive.png"
+    },
+    {
+      "gameTitle": "Tic tac toe",
+      "gameUrl": "Tic-tac-toe",
+      "thumbnailUrl": "Tic-tac-toe.png"
+    },
+    {
+      "gameTitle": "Tic-Tac-Toe Game",
+      "gameUrl": "Tic-Tac-Toe Game",
+      "thumbnailUrl": "Tic-Tac-Toe Game.png"
+    },
+    {
+      "gameTitle": "Touch No Fire",
+      "gameUrl": "Touch-No-Fire-Game",
+      "thumbnailUrl": "Touch-No-Fire-Game.png"
+    },
+    {
+      "gameTitle": "Tower Block Game",
+      "gameUrl": "Tower_Block_Game",
+      "thumbnailUrl": "Tower_Block_Game.png"
+    },
+    {
+      "gameTitle": "Tower Blocks",
+      "gameUrl": "Tower_Blocks",
+      "thumbnailUrl": "Tower_Blocks.png"
+    },
+    {
+      "gameTitle": "Tower Defence Game",
+      "gameUrl": "Tower_Defence_Game",
+      "thumbnailUrl": "Tower_Defence_Game.png"
+    },
+    {
+      "gameTitle": "Town Rise Game",
+      "gameUrl": "Town_Rise_Game",
+      "thumbnailUrl": "Town_Rise_Game.png"
+    },
+    {
+      "gameTitle": "Treasure Hunt",
+      "gameUrl": "Treasure Hunt",
+      "thumbnailUrl": "Treasure_Hunt.png"
+    },
+    {
+      "gameTitle": "TriHand Tactics",
+      "gameUrl": "TriHand_Tactics",
+      "thumbnailUrl": "TriHand_Tactics.png"
+    },
+    {
+      "gameTitle": "Turn On The Light",
+      "gameUrl": "Turn_on_the_light",
+      "thumbnailUrl": "turnonthelight.jpg"
+    },
+    {
+      "gameTitle": "Ultimate Football Manager",
+      "gameUrl": "Ultimate_Football_Manager",
+      "thumbnailUrl": "Ultimate Football Manager.png"
+    },
+    {
+      "gameTitle": "UNO With Computer",
+      "gameUrl": "UNO_game_with_Computer",
+      "thumbnailUrl": "UNO_Game_With_Computer.png"
+    },
+    {
+      "gameTitle": "Virtual Pet",
+      "gameUrl": "Virtual_Pet",
+      "thumbnailUrl": "Virtual_Pet.png"
+    },
+    {
+      "gameTitle": "Whack a Mole 2",
+      "gameUrl": "whack a mole",
+      "thumbnailUrl": "whack a mole.png"
+    },
+    {
+      "gameTitle": "Whack a Mole Mario version",
+      "gameUrl": "Whack_a_Mole_Mario_Version",
+      "thumbnailUrl": "Whack_a_Mole_Mario_Version.png"
+    },
+    {
+      "gameTitle": "Wheel of Fortune",
+      "gameUrl": "Wheel_of_fortune",
+      "thumbnailUrl": "Wheel_of_fortune.jpg"
+    },
+    {
+      "gameTitle": "Wheel of Fortunes",
+      "gameUrl": "Wheel_of_fortunes",
+      "thumbnailUrl": "Wheel_of_Fortunes.png"
+    },
+    {
+      "gameTitle": "Word Association",
+      "gameUrl": "word_association",
+      "thumbnailUrl": "Word_Association.png"
+    },
+    {
+      "gameTitle": "Word Shuffle Game",
+      "gameUrl": "Word_Shuffle_Game",
+      "thumbnailUrl": "Word_Shuffle_Game.png"
+    },
+    {
+      "gameTitle": "Wordling",
+      "gameUrl": "Wordling",
+      "thumbnailUrl": "Wordling.png"
+    },
+    {
+      "gameTitle": "Word Scramble",
+      "gameUrl": "wordScramble",
+      "thumbnailUrl": "Word_Scramble.png"
+    },
+    {
+      "gameTitle": "Word Sprint",
+      "gameUrl": "WordSprint",
+      "thumbnailUrl": "wordsprint.png"
+    },
+    {
+      "gameTitle": "Catch The Falling Stars 2",
+      "gameUrl": "catch_the_falling_stars",
+      "thumbnailUrl": "Catch the Falling Stars.png"
+    },
+    {
+      "gameTitle": "Bulls eye",
+      "gameUrl": "Bulls_eye",
+      "thumbnailUrl": "Bulls_eye.png"
+    },
+    {
+      "gameTitle": "Flappy Birdd",
+      "gameUrl": "Flappy_Birdd",
+      "thumbnailUrl": "Flappy_Bird_Game.webp"
+    },
+    {
+      "gameTitle": "Penalty_Shootout_Game",
+      "gameUrl": "Penalty_Shootout_Game",
+      "thumbnailUrl": "Penalty_Shootout_Game"
+    },
+    {
+      "gameTitle": "Atlas Game",
+      "gameUrl": "Atlas_Game",
+      "thumbnailUrl": "Atlas_Game.png"
+    },
+    {
+      "gameTitle": "Hangman Game",
+      "gameUrl": "Hangman_Game",
+      "thumbnailUrl": "Hangman_Game.png"
+    }
+  ]
+}
