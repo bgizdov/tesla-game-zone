@@ -59,7 +59,7 @@ function PaginatedItems({ itemsPerPage }) {
   return (
     <>
       <Items currentItems={currentItems} />
-      <div className="p-centered text-center">
+<div class="divider" data-content="Pagination"></div>
       <ReactPaginate
         breakLabel="..."
         nextLabel="next >"
@@ -68,12 +68,15 @@ function PaginatedItems({ itemsPerPage }) {
         pageCount={pageCount}
         previousLabel="< previous"
         renderOnZeroPageCount={null}
-        className='pagination'
-        nextClassName='page-item btn'
-        previousClassName='page-item btn'
-        pageClassName='page-item btn'
+        className='pagination col-12 p-centered'
+        nextClassName='page-item float-left btn btn-primary'
+        nextLinkClassName='text-secondary'
+        previousClassName='page-item float-left btn btn-primary'
+        previousLinkClassName='text-secondary'
+        pageClassName='page-item float-left btn btn-primary'
+        pageLinkClassName='text-secondary'
+        breakClassName='page-item float-left'
       />
-      </div>
     </>
   );
 }
