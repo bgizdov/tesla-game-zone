@@ -1,11 +1,6 @@
 {
   "games": [
     {
-      "gameTitle": "Tilting Maze",
-      "gameUrl": "Tilting_Maze",
-      "thumbnailUrl": "Tilting_Maze.webp"
-    },
-    {
       "gameTitle": "Simon Game",
       "gameUrl": "Simon_Game_Challenge",
       "thumbnailUrl": "Simon-game.webp"
