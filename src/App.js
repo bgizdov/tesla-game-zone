@@ -8,18 +8,28 @@ import ReactPaginate from 'react-paginate';
 console.log('gamesData', gamesData);
 const items = gamesData.games;
 
+
 function Items({ currentItems }) {
   return (
     <>
-      {currentItems &&
-        currentItems.map((item) => (
-          <a href={`/Games/${item.gameUrl}`}>
-            <div>
-              <h3>{item.gameTitle}</h3>
-              <img src={`/images/${item.thumbnailUrl}`} width="200px" height="100px" alt={item.gameTitle} />
-            </div>
-          </a>
-        ))}
+      <div class="columns">
+        {currentItems &&
+          currentItems.map((item) => (
+            <div class="column col-3 col-md-6 col-sm-12">
+              <div class="card m-1 p-centered">
+                <div class="card-header">
+                <a href={`/Games/${item.gameUrl}`} target='_blank'><div class="card-title h5">{item.gameTitle}</div></a>
+                </div>
+                <div class="card-image">
+                <a href={`/Games/${item.gameUrl}`} target='_blank'><img src={`/images/${item.thumbnailUrl}`} width="100%" height="157px" alt={item.gameTitle} /></a>
+                </div>
+                <div class="card-footer">
+                <a href={`/Games/${item.gameUrl}`} target='_blank'><button class="btn btn-primary">Play</button></a>
+                </div>
+              </div>
+              </div>
+          ))}
+      </div>
     </>
   );
 }
@@ -49,43 +59,34 @@ function PaginatedItems({ itemsPerPage }) {
   return (
     <>
       <Items currentItems={currentItems} />
+      <div className="p-centered text-center">
       <ReactPaginate
         breakLabel="..."
         nextLabel="next >"
         onPageChange={handlePageClick}
-        pageRangeDisplayed={5}
+        pageRangeDisplayed={3}
         pageCount={pageCount}
         previousLabel="< previous"
         renderOnZeroPageCount={null}
+        className='pagination'
+        nextClassName='page-item btn'
+        previousClassName='page-item btn'
+        pageClassName='page-item btn'
       />
+      </div>
     </>
   );
 }
 
 // Add a <div id="container"> to your HTML to see the component rendered.
 ReactDOM.render(
-  <PaginatedItems itemsPerPage={4} />,
+  <PaginatedItems itemsPerPage={8} />,
   document.getElementById('container')
 );
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reloadf fdfdfdd.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-      <div id="games"></div>
     </div>
   );
 }

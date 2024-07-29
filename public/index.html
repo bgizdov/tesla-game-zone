@@ -24,10 +24,22 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
     <title>Tesla Game Zone</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+
+      <header class="navbar m-2">
+        <section class="navbar-section">
+          <a href="/" class="navbar-brand mr-2">Tesla Game Zone</a>
+          <a href="..." class="btn btn-link">Contributors</a>
+          <a href="..." class="btn btn-link">About</a>
+        </section>
+      </header>
+      
     <div id="root"></div>
     <!--
       This HTML file is a template.
@@ -39,6 +51,6 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-      <div id="container" />
+      <div id="container" class="m-1"></div>
   </body>
 </html>
