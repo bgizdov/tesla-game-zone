@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import gamesData from './gamesData.json';
 import React, { useEffect, useState } from 'react';
@@ -7,7 +6,6 @@ import ReactPaginate from 'react-paginate';
 
 console.log('gamesData', gamesData);
 const items = gamesData.games;
-
 
 function Items({ currentItems }) {
   return (
@@ -18,16 +16,17 @@ function Items({ currentItems }) {
             <div class="column col-3 col-md-6 col-sm-12">
               <div class="card m-1 p-centered">
                 <div class="card-header">
-                <a href={`/Games/${item.gameUrl}`} target='_blank'><div class="card-title h5">{item.gameTitle}</div></a>
+                  <a href={`/Games/${item.gameUrl}`} target='_blank'><div class="card-title h5">{item.gameTitle}</div></a>
                 </div>
                 <div class="card-image">
-                <a href={`/Games/${item.gameUrl}`} target='_blank'><img src={`/images/${item.thumbnailUrl}`} width="100%" height="157px" alt={item.gameTitle} /></a>
+                  <a href={`/Games/${item.gameUrl}`} target='_blank'>
+                  <img src={`/images/${item.thumbnailUrl}`} alt={item.gameTitle} width="100%" height="175px" /></a>
                 </div>
                 <div class="card-footer">
-                <a href={`/Games/${item.gameUrl}`} target='_blank'><button class="btn btn-primary">Play</button></a>
+                  <a href={`/Games/${item.gameUrl}`}  target='_blank'><button class="btn btn-primary">Play</button></a>
                 </div>
               </div>
-              </div>
+            </div>
           ))}
       </div>
     </>
@@ -44,6 +43,7 @@ function PaginatedItems({ itemsPerPage }) {
   // from an API endpoint with useEffect and useState)
   const endOffset = itemOffset + itemsPerPage;
   console.log(`Loading items from ${itemOffset} to ${endOffset}`);
+
   const currentItems = items.slice(itemOffset, endOffset);
   const pageCount = Math.ceil(items.length / itemsPerPage);
 
@@ -59,19 +59,19 @@ function PaginatedItems({ itemsPerPage }) {
   return (
     <>
       <Items currentItems={currentItems} />
-<div class="divider" data-content="Pagination"></div>
+      <div class="divider" data-content="Pagination"></div>
       <ReactPaginate
         breakLabel="..."
-        nextLabel="next >"
+        nextLabel="Next >"
         onPageChange={handlePageClick}
-        pageRangeDisplayed={3}
+        pageRangeDisplayed={2}
         pageCount={pageCount}
-        previousLabel="< previous"
+        previousLabel="< Prev"
         renderOnZeroPageCount={null}
-        className='pagination col-12 p-centered'
+        className='pagination'
         nextClassName='page-item float-left btn btn-primary'
         nextLinkClassName='text-secondary'
-        previousClassName='page-item float-left btn btn-primary'
+        previousClassName='page-item float-left btn btn-primary d-block'
         previousLinkClassName='text-secondary'
         pageClassName='page-item float-left btn btn-primary'
         pageLinkClassName='text-secondary'
