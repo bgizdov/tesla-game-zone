@@ -1,11 +1,13 @@
 <div style="display:none;" align="center"><h1>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="50" height="50" /><font size="10"> GameZone</font></h1>
+<img src="https://github.com/bgizdov/tesla-game-zone/blob/main/public/tesla-game-zone-2.png?raw=true" alt="Video Game" width="200" height="200" />
+  <br />
+  <font size="10"> Tesla Game Zone</font></h1>
 
 <!-- repo intro -->
 
 </div>
 <div align="center">
-
+Forked from <a href="https://github.com/kunjgit/GameZone">GameZone by kunjgit</a>
 <h3><fontsize="4">This open source repository contains a collection of games built on basic tech stacks in web development. Use your creativity, build your own game and contribute to the repository by making a PR 🎮
 <br>
 Make sure you star the repository and show your love to us💗
