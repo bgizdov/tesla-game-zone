@@ -1,6 +1,106 @@
 {
   "games": [
     {
+      "gameTitle": "Planet Defense",
+      "gameUrl": "Planet_Defense",
+      "thumbnailUrl": "Planet_Defense.webp"
+    },
+    {
+      "gameTitle": "Fruit Ninja",
+      "gameUrl": "Fruit_Ninja",
+      "thumbnailUrl": "Fruit_Ninja_Thumbnail.webp"
+    },
+    {
+      "gameTitle": "Cut The Rope",
+      "gameUrl": "Cut_the_rope",
+      "thumbnailUrl": "Cut_the_rope.webp"
+    },
+    {
+      "gameTitle": "Light House",
+      "gameUrl": "Lighthouse",
+      "thumbnailUrl": "LightHouse.webp"
+    },
+    {
+      "gameTitle": "Lights Out !",
+      "gameUrl": "Lights_Out",
+      "thumbnailUrl": "Lights_Out.webp"
+    },
+    {
+      "gameTitle": "Rabbit Rush",
+      "gameUrl": "Rabbit_Rush",
+      "thumbnailUrl": "rabbit.webp"
+    },
+    {
+      "gameTitle": "Menja",
+      "gameUrl": "Menja",
+      "thumbnailUrl": "Menja.webp"
+    },
+    {
+      "gameTitle": "Rubik's Solver",
+      "gameUrl": "Rubik's_solver",
+      "thumbnailUrl": "cube_Solver.webp"
+    },
+    {
+      "gameTitle": "Tile Game",
+      "gameUrl": "Tile_Game",
+      "thumbnailUrl": "Tile_Game.jpg"
+    },
+    {
+      "gameTitle": "Bubble Blast Game",
+      "gameUrl": "Bubble_Blast_Game",
+      "thumbnailUrl": "Bubble_Blast_Game.webp"
+    },
+    {
+      "gameTitle": "Black Jack",
+      "gameUrl": "Black_Jack",
+      "thumbnailUrl": "Black_Jack.webp"
+    },
+    {
+      "gameTitle": "Track Not Found",
+      "gameUrl": "Track_Not_Found",
+      "thumbnailUrl": "Track_Not_Found.jpg"
+    },
+    {
+      "gameTitle": "Retro Dungeon Puzzle",
+      "gameUrl": "Retro_Dungeon_Puzzle",
+      "thumbnailUrl": "Retro_Dungeon_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Oh Flip",
+      "gameUrl": "oh_flip",
+      "thumbnailUrl": "oh_flip.webp"
+    },
+    {
+      "gameTitle": "Hit Your Friend",
+      "gameUrl": "HitYourFriend",
+      "thumbnailUrl": "Hit-Your-Friend.png"
+    },
+    {
+      "gameTitle": "AI Chess",
+      "gameUrl": "AI_CHESS_Game",
+      "thumbnailUrl": "chess.webp"
+    },
+    {
+      "gameTitle": "Tower Block Game",
+      "gameUrl": "Tower_Block_Game",
+      "thumbnailUrl": "Tower_Block_Game.png"
+    },
+    {
+      "gameTitle": "flappy Bubble Sofa",
+      "gameUrl": "Flappy_Bubble_Sofa",
+      "thumbnailUrl": "Flappy_Bubble_Sofa.png"
+    },
+    {
+      "gameTitle": "Tiny Fishing",
+      "gameUrl": "Tiny_Fishing",
+      "thumbnailUrl": "Tiny-Fishing.png"
+    },
+    {
+      "gameTitle": "Stick Hero Game",
+      "gameUrl": "Stick_Hero_Game",
+      "thumbnailUrl": "Stick_Hero.webp"
+    },
+    {
       "gameTitle": "Simon Game",
       "gameUrl": "Simon_Game_Challenge",
       "thumbnailUrl": "Simon-game.webp"
@@ -9,11 +109,6 @@
       "gameTitle": "Whack a Mole",
       "gameUrl": "Whack_a_Mole",
       "thumbnailUrl": "Whack_a_Mole.webp"
-    },
-    {
-      "gameTitle": "Black Jack",
-      "gameUrl": "Black_Jack",
-      "thumbnailUrl": "Black_Jack.webp"
     },
     {
       "gameTitle": "Memory Game",
@@ -46,11 +141,6 @@
       "thumbnailUrl": "Aim_Training.webp"
     },
     {
-      "gameTitle": "Fruit Ninja",
-      "gameUrl": "Fruit_Ninja",
-      "thumbnailUrl": "Fruit_Ninja_Thumbnail.webp"
-    },
-    {
       "gameTitle": "Candy Crush",
       "gameUrl": "Candy_Crush",
       "thumbnailUrl": "candy_crush.webp"
@@ -76,49 +166,9 @@
       "thumbnailUrl": "Magic_Square.JPG"
     },
     {
-      "gameTitle": "Light House",
-      "gameUrl": "Lighthouse",
-      "thumbnailUrl": "LightHouse.webp"
-    },
-    {
-      "gameTitle": "Lights Out !",
-      "gameUrl": "Lights_Out",
-      "thumbnailUrl": "Lights_Out.webp"
-    },
-    {
-      "gameTitle": "Planet Defense",
-      "gameUrl": "Planet_Defense",
-      "thumbnailUrl": "Planet_Defense.webp"
-    },
-    {
-      "gameTitle": "Rabbit Rush",
-      "gameUrl": "Rabbit_Rush",
-      "thumbnailUrl": "rabbit.webp"
-    },
-    {
-      "gameTitle": "Menja",
-      "gameUrl": "Menja",
-      "thumbnailUrl": "Menja.webp"
-    },
-    {
-      "gameTitle": "Tile Game",
-      "gameUrl": "Tile_Game",
-      "thumbnailUrl": "Tile_Game.jpg"
-    },
-    {
-      "gameTitle": "Stick Hero Game",
-      "gameUrl": "Stick_Hero_Game",
-      "thumbnailUrl": "Stick_Hero.webp"
-    },
-    {
       "gameTitle": "Tower Defense",
       "gameUrl": "Tower_Defense",
       "thumbnailUrl": "tower_defense.webp"
-    },
-    {
-      "gameTitle": "Bubble Blast Game",
-      "gameUrl": "Bubble_Blast_Game",
-      "thumbnailUrl": "Bubble_Blast_Game.webp"
     },
     {
       "gameTitle": "Drum Kit Game",
@@ -151,11 +201,6 @@
       "thumbnailUrl": "Flip_Card_Game.webp"
     },
     {
-      "gameTitle": "Rubik's Solver",
-      "gameUrl": "Rubik's_solver",
-      "thumbnailUrl": "cube_Solver.webp"
-    },
-    {
       "gameTitle": "Packabunchas",
       "gameUrl": "Packabunchas",
       "thumbnailUrl": "packabunchas.webp"
@@ -164,11 +209,6 @@
       "gameTitle": "Cast and Catch",
       "gameUrl": "Cast_and_Catch",
       "thumbnailUrl": "Cast_and_Catch.webp"
-    },
-    {
-      "gameTitle": "Track Not Found",
-      "gameUrl": "Track_Not_Found",
-      "thumbnailUrl": "Track_Not_Found.jpg"
     },
     {
       "gameTitle": "Snake Ladder",
@@ -214,11 +254,6 @@
       "gameTitle": "Glitch Buster",
       "gameUrl": "Glitch_Buster",
       "thumbnailUrl": "Glitch_Buster.jpg"
-    },
-    {
-      "gameTitle": "Retro Dungeon Puzzle",
-      "gameUrl": "Retro_Dungeon_Puzzle",
-      "thumbnailUrl": "Retro_Dungeon_Puzzle.webp"
     },
     {
       "gameTitle": "Immunity Collapse",
@@ -331,11 +366,6 @@
       "thumbnailUrl": "shape_block.webp"
     },
     {
-      "gameTitle": "Oh Flip",
-      "gameUrl": "oh_flip",
-      "thumbnailUrl": "oh_flip.webp"
-    },
-    {
       "gameTitle": "HangMan",
       "gameUrl": "HangMan",
       "thumbnailUrl": "HangMan.webp"
@@ -369,11 +399,6 @@
       "gameTitle": "Air Balloon",
       "gameUrl": "AirBalloon",
       "thumbnailUrl": "AirBalloon.webp"
-    },
-    {
-      "gameTitle": "Cut The Rope",
-      "gameUrl": "Cut_the_rope",
-      "thumbnailUrl": "Cut_the_rope.webp"
     },
     {
       "gameTitle": "Monster Maker",
@@ -439,11 +464,6 @@
       "gameTitle": "Dungeon Crawler",
       "gameUrl": "Dungeon_Crawler",
       "thumbnailUrl": "Dungeon_Crawler.jpg"
-    },
-    {
-      "gameTitle": "Chess",
-      "gameUrl": "AI_CHESS_Game",
-      "thumbnailUrl": "chess.webp"
     },
     {
       "gameTitle": "Dots and Boxes",
@@ -761,11 +781,6 @@
       "thumbnailUrl": "Tower_Stack.png"
     },
     {
-      "gameTitle": "Tiny Fishing",
-      "gameUrl": "Tiny_Fishing",
-      "thumbnailUrl": "Tiny-Fishing.png"
-    },
-    {
       "gameTitle": "Hover_Board_Effect",
       "gameUrl": "Hover_Board_Effect",
       "thumbnailUrl": "Hover_Board_Effect.png"
@@ -971,11 +986,6 @@
       "thumbnailUrl": "Etch_a_Sketch_2.png"
     },
     {
-      "gameTitle": "flappy Bubble Sofa",
-      "gameUrl": "Flappy_Bubble_Sofa",
-      "thumbnailUrl": "Flappy_Bubble_Sofa.png"
-    },
-    {
       "gameTitle": "Fruit Slicer Game",
       "gameUrl": "Fruit_Slicer_Game",
       "thumbnailUrl": "Fruit-Slicer.png"
@@ -1014,11 +1024,6 @@
       "gameTitle": "Hit the Hamster",
       "gameUrl": "Hit_the_hamster",
       "thumbnailUrl": "Hit_the_hamster_game.png"
-    },
-    {
-      "gameTitle": "Hit Your Friend",
-      "gameUrl": "HitYourFriend",
-      "thumbnailUrl": "Hit-Your-Friend.png"
     },
     {
       "gameTitle": "Html5 Controller Tester",
@@ -1479,11 +1484,6 @@
       "gameTitle": "Touch No Fire",
       "gameUrl": "Touch-No-Fire-Game",
       "thumbnailUrl": "Touch-No-Fire-Game.png"
-    },
-    {
-      "gameTitle": "Tower Block Game",
-      "gameUrl": "Tower_Block_Game",
-      "thumbnailUrl": "Tower_Block_Game.png"
     },
     {
       "gameTitle": "Tower Blocks",
