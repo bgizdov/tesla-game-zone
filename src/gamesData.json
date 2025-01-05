@@ -6,19 +6,9 @@
       "thumbnailUrl": "Planet_Defense.webp"
     },
     {
-      "gameTitle": "Fruit Ninja",
-      "gameUrl": "Fruit_Ninja",
-      "thumbnailUrl": "Fruit_Ninja_Thumbnail.webp"
-    },
-    {
       "gameTitle": "Cut The Rope",
       "gameUrl": "Cut_the_rope",
       "thumbnailUrl": "Cut_the_rope.webp"
-    },
-    {
-      "gameTitle": "Light House",
-      "gameUrl": "Lighthouse",
-      "thumbnailUrl": "LightHouse.webp"
     },
     {
       "gameTitle": "Lights Out !",
@@ -39,11 +29,6 @@
       "gameTitle": "Rubik's Solver",
       "gameUrl": "Rubik's_solver",
       "thumbnailUrl": "cube_Solver.webp"
-    },
-    {
-      "gameTitle": "Tile Game",
-      "gameUrl": "Tile_Game",
-      "thumbnailUrl": "Tile_Game.jpg"
     },
     {
       "gameTitle": "Bubble Blast Game",
@@ -71,34 +56,14 @@
       "thumbnailUrl": "oh_flip.webp"
     },
     {
-      "gameTitle": "Hit Your Friend",
-      "gameUrl": "HitYourFriend",
-      "thumbnailUrl": "Hit-Your-Friend.png"
-    },
-    {
       "gameTitle": "AI Chess",
       "gameUrl": "AI_CHESS_Game",
       "thumbnailUrl": "chess.webp"
     },
     {
-      "gameTitle": "Tower Block Game",
-      "gameUrl": "Tower_Block_Game",
-      "thumbnailUrl": "Tower_Block_Game.png"
-    },
-    {
       "gameTitle": "flappy Bubble Sofa",
       "gameUrl": "Flappy_Bubble_Sofa",
       "thumbnailUrl": "Flappy_Bubble_Sofa.png"
-    },
-    {
-      "gameTitle": "Tiny Fishing",
-      "gameUrl": "Tiny_Fishing",
-      "thumbnailUrl": "Tiny-Fishing.png"
-    },
-    {
-      "gameTitle": "Stick Hero Game",
-      "gameUrl": "Stick_Hero_Game",
-      "thumbnailUrl": "Stick_Hero.webp"
     },
     {
       "gameTitle": "Simon Game",
@@ -116,34 +81,14 @@
       "thumbnailUrl": "MemoryGame.webp"
     },
     {
-      "gameTitle": "Ludo Game",
-      "gameUrl": "Ludo_Game",
-      "thumbnailUrl": "Ludo_Game.png"
-    },
-    {
       "gameTitle": "Piano",
       "gameUrl": "Piano",
       "thumbnailUrl": "Piano_game.webp"
     },
     {
-      "gameTitle": "Color guessing Game",
-      "gameUrl": "Colour_Guessing_Game",
-      "thumbnailUrl": "Colour_Guessing_Game.webp"
-    },
-    {
-      "gameTitle": "Guess the Number",
-      "gameUrl": "Guess_The_Number",
-      "thumbnailUrl": "Guess_The_Number.webp"
-    },
-    {
       "gameTitle": "Aim training",
       "gameUrl": "Aim_Training",
       "thumbnailUrl": "Aim_Training.webp"
-    },
-    {
-      "gameTitle": "Candy Crush",
-      "gameUrl": "Candy_Crush",
-      "thumbnailUrl": "candy_crush.webp"
     },
     {
       "gameTitle": "Tic Tac Toe",
@@ -206,34 +151,9 @@
       "thumbnailUrl": "packabunchas.webp"
     },
     {
-      "gameTitle": "Cast and Catch",
-      "gameUrl": "Cast_and_Catch",
-      "thumbnailUrl": "Cast_and_Catch.webp"
-    },
-    {
       "gameTitle": "Snake Ladder",
       "gameUrl": "Snake_Ladder",
       "thumbnailUrl": "snake_and_ladder.webp"
-    },
-    {
-      "gameTitle": "World_Of_Emojis",
-      "gameUrl": "World_Of_Emojis",
-      "thumbnailUrl": "World_Of_Emojis.jpg"
-    },
-    {
-      "gameTitle": "Catch the Bunny",
-      "gameUrl": "Catch_the_Bunny",
-      "thumbnailUrl": "Catch_the_Bunny.webp"
-    },
-    {
-      "gameTitle": "Blanks Detective",
-      "gameUrl": "Blanks_Detective",
-      "thumbnailUrl": "Blanks Detective.webp"
-    },
-    {
-      "gameTitle": "Movie Guessing Game",
-      "gameUrl": "Movie_Guessing_Game",
-      "thumbnailUrl": "Movie_Guessing_Game.webp"
     },
     {
       "gameTitle": "Wildcard Bonanza",
@@ -256,11 +176,6 @@
       "thumbnailUrl": "Glitch_Buster.jpg"
     },
     {
-      "gameTitle": "Immunity Collapse",
-      "gameUrl": "Immunity_Collapse",
-      "thumbnailUrl": "Immunity_Collapse.jpg"
-    },
-    {
       "gameTitle": "Emoji Puzzle Game",
       "gameUrl": "Emoji_Puzzle_Game",
       "thumbnailUrl": "Emoji_Puzzle_Game.webp"
@@ -269,11 +184,6 @@
       "gameTitle": "Squared Lines",
       "gameUrl": "Squared_lines",
       "thumbnailUrl": "Squared Lines.webp"
-    },
-    {
-      "gameTitle": "Space War",
-      "gameUrl": "Space_War",
-      "thumbnailUrl": "space_war.webp"
     },
     {
       "gameTitle": "Sciarra Of Colors",
@@ -301,16 +211,6 @@
       "thumbnailUrl": "MaximiseBoxes.webp"
     },
     {
-      "gameTitle": "Slide Puzzle",
-      "gameUrl": "Slide_Puzzle",
-      "thumbnailUrl": "Slide_Puzzle.webp"
-    },
-    {
-      "gameTitle": "Diamond Run",
-      "gameUrl": "Diamond_Run",
-      "thumbnailUrl": "diamond_run.webp"
-    },
-    {
       "gameTitle": "Duck Hunt",
       "gameUrl": "DuckHunt",
       "thumbnailUrl": "DuckHunt.webp"
@@ -336,34 +236,9 @@
       "thumbnailUrl": "spacepi.webp"
     },
     {
-      "gameTitle": "Word_search_puzzle",
-      "gameUrl": "Word_search_puzzle",
-      "thumbnailUrl": "Word_search_puzzle.webp"
-    },
-    {
-      "gameTitle": "Shpere",
-      "gameUrl": "Shpere",
-      "thumbnailUrl": "shpere.webp"
-    },
-    {
-      "gameTitle": "Canon Defense",
-      "gameUrl": "Canon_Defense",
-      "thumbnailUrl": "canon_defense.webp"
-    },
-    {
-      "gameTitle": "CHESS",
-      "gameUrl": "CHESS",
-      "thumbnailUrl": "Chess.jpg"
-    },
-    {
       "gameTitle": "Norman The Necromancer",
       "gameUrl": "Norman_The_Necromancer",
       "thumbnailUrl": "Norman_The_Necromancer.jpg"
-    },
-    {
-      "gameTitle": "Shape Blocks",
-      "gameUrl": "Shape_Blocks",
-      "thumbnailUrl": "shape_block.webp"
     },
     {
       "gameTitle": "HangMan",
@@ -374,11 +249,6 @@
       "gameTitle": "Earth Destroyer",
       "gameUrl": "Earth_Destroyer",
       "thumbnailUrl": "earth_destroyer.webp"
-    },
-    {
-      "gameTitle": "Drag And Drop Puzzle",
-      "gameUrl": "Drag_And_Drop_Puzzle",
-      "thumbnailUrl": "Drag_And_Drop_Puzzle.webp"
     },
     {
       "gameTitle": "Music Guess Game",
@@ -396,11 +266,6 @@
       "thumbnailUrl": "Mastermind_Mania.webp"
     },
     {
-      "gameTitle": "Air Balloon",
-      "gameUrl": "AirBalloon",
-      "thumbnailUrl": "AirBalloon.webp"
-    },
-    {
       "gameTitle": "Monster Maker",
       "gameUrl": "Monster_Maker",
       "thumbnailUrl": "Monster_Maker.webp"
@@ -416,11 +281,6 @@
       "thumbnailUrl": "Mastermind.webp"
     },
     {
-      "gameTitle": "Bulls eye",
-      "gameUrl": "BullseyeGame",
-      "thumbnailUrl": "Bulls_eye.png"
-    },
-    {
       "gameTitle": "Cross Word",
       "gameUrl": "Crossword_Game",
       "thumbnailUrl": "Crossword_Game.webp"
@@ -431,19 +291,9 @@
       "thumbnailUrl": "Guess_The_Correct_Logo.webp"
     },
     {
-      "gameTitle": "Painting Game",
-      "gameUrl": "Painting_Game",
-      "thumbnailUrl": "Painting_Game.webp"
-    },
-    {
       "gameTitle": "LinkUp",
       "gameUrl": "linkup",
       "thumbnailUrl": "linkup.webp"
-    },
-    {
-      "gameTitle": "Trivia card",
-      "gameUrl": "Trivia_Card",
-      "thumbnailUrl": "Trivia_Card.webp"
     },
     {
       "gameTitle": "Insect Catch",
@@ -471,34 +321,9 @@
       "thumbnailUrl": "Dots_and_Boxes_Game.webp"
     },
     {
-      "gameTitle": "Mario Matching",
-      "gameUrl": "mario_matching_game",
-      "thumbnailUrl": "Mario Matching.webp"
-    },
-    {
-      "gameTitle": "Hand Cricket",
-      "gameUrl": "Hand_Cricket",
-      "thumbnailUrl": "Hand_cricket.webp"
-    },
-    {
       "gameTitle": "Crossword Puzzle",
       "gameUrl": "Crossword_Puzzle",
       "thumbnailUrl": "Crossword_Puzzle.webp"
-    },
-    {
-      "gameTitle": "Pixel Painter",
-      "gameUrl": "Pixel_Painter",
-      "thumbnailUrl": "Pixel_Painter.webp"
-    },
-    {
-      "gameTitle": "Riddle Room",
-      "gameUrl": "Riddle_Room",
-      "thumbnailUrl": "Riddle_Room.webp"
-    },
-    {
-      "gameTitle": "Escape Room",
-      "gameUrl": "Escape_room",
-      "thumbnailUrl": "Escape_room.webp"
     },
     {
       "gameTitle": "Doodle Draw",
@@ -509,16 +334,6 @@
       "gameTitle": "Arcade Game",
       "gameUrl": "Arcade_Game",
       "thumbnailUrl": "Arcade_Game.webp"
-    },
-    {
-      "gameTitle": "Slice Storm",
-      "gameUrl": "Slice_Storm",
-      "thumbnailUrl": "Slice_Storm.webp"
-    },
-    {
-      "gameTitle": "CareTaker",
-      "gameUrl": "CareTaker",
-      "thumbnailUrl": "CareTaker.webp"
     },
     {
       "gameTitle": "UNO",
