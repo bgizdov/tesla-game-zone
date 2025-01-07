@@ -71,6 +71,56 @@
       "thumbnailUrl": "Simon-game.webp"
     },
     {
+      "gameTitle": "Hextris",
+      "gameUrl": "Hextris",
+      "thumbnailUrl": "hextris.webp"
+    },
+    {
+      "gameTitle": "Asteroids 3D",
+      "gameUrl": "Asteroids_3D",
+      "thumbnailUrl": "Asteroids_3D.png"
+    },
+    {
+      "gameTitle": "Smashing_Blocks",
+      "gameUrl": "Smashing_Blocks",
+      "thumbnailUrl": "Smashing_Blocks.png"
+    },
+    {
+      "gameTitle": "Tower Stack",
+      "gameUrl": "Tower_Stack",
+      "thumbnailUrl": "Tower_Stack.png"
+    },
+    {
+      "gameTitle": "Align 4 balls",
+      "gameUrl": "Align_4_Game",
+      "thumbnailUrl": "Align_4_Game.png"
+    },
+    {
+      "gameTitle": "Chess Game with Computer",
+      "gameUrl": "Chess_Game_computer",
+      "thumbnailUrl": "chessComputer.png"
+    },
+    {
+      "gameTitle": "Memory Cards Game",
+      "gameUrl": "Memory_Cards_Game",
+      "thumbnailUrl": "Memory_Cards_Game.png"
+    },
+    {
+      "gameTitle": "Steampunk FlappyBird",
+      "gameUrl": "Steampunk_FlappyBird",
+      "thumbnailUrl": "Steampunk_FlappyBird.png"
+    },
+    {
+      "gameTitle": "Turn On The Light",
+      "gameUrl": "Turn_on_the_light",
+      "thumbnailUrl": "turnonthelight.jpg"
+    },
+    {
+      "gameTitle": "Dinosaur Memory Game",
+      "gameUrl": "Dinosaur_Memory_Game",
+      "thumbnailUrl": "Dinosaur_memory_game.png"
+    },
+    {
       "gameTitle": "Whack a Mole",
       "gameUrl": "Whack_a_Mole",
       "thumbnailUrl": "Whack_a_Mole.webp"
@@ -206,11 +256,6 @@
       "thumbnailUrl": "MaximiseBoxes.webp"
     },
     {
-      "gameTitle": "Duck Hunt",
-      "gameUrl": "DuckHunt",
-      "thumbnailUrl": "DuckHunt.webp"
-    },
-    {
       "gameTitle": "Plankman",
       "gameUrl": "Plankman",
       "thumbnailUrl": "Plankman.webp"
@@ -295,7 +340,6 @@
       "gameUrl": "Insect_Catch_Game",
       "thumbnailUrl": "Insect_Catch_Game.webp"
     },
-
     {
       "gameTitle": "Make Me Laugh",
       "gameUrl": "Make_Me_Laugh",
@@ -340,11 +384,6 @@
       "gameTitle": "Animal Match Game",
       "gameUrl": "Animal_Match_Game",
       "thumbnailUrl": "Animal_Match_Game.webp"
-    },
-    {
-      "gameTitle": "Hextris",
-      "gameUrl": "Hextris",
-      "thumbnailUrl": "hextris.webp"
     },
     {
       "gameTitle": "Checkers",
@@ -427,11 +466,6 @@
       "thumbnailUrl": "Guitar_Game.png"
     },
     {
-      "gameTitle": "Asteroids 3D",
-      "gameUrl": "Asteroids_3D",
-      "thumbnailUrl": "Asteroids_3D.png"
-    },
-    {
       "gameTitle": "Etch a Sketch",
       "gameUrl": "Etch_a_Sketch",
       "thumbnailUrl": "Etch-a-Sketch.png"
@@ -472,11 +506,6 @@
       "thumbnailUrl": "Guess_The_Song.png"
     },
     {
-      "gameTitle": "Smashing_Blocks",
-      "gameUrl": "Smashing_Blocks",
-      "thumbnailUrl": "Smashing_Blocks.png"
-    },
-    {
       "gameTitle": "Response_Reaction",
       "gameUrl": "Response_Reaction",
       "thumbnailUrl": "Response_Reaction.png"
@@ -507,11 +536,6 @@
       "thumbnailUrl": "Technical_Mind_Game.png"
     },
     {
-      "gameTitle": "Memory Cards Game",
-      "gameUrl": "Memory_Cards_Game",
-      "thumbnailUrl": "Memory_Cards_Game.png"
-    },
-    {
       "gameTitle": "Dice Roller",
       "gameUrl": "Dice_Roller",
       "thumbnailUrl": "Dice_Roller.png"
@@ -532,11 +556,6 @@
       "thumbnailUrl": "Dot_Connect.png"
     },
     {
-      "gameTitle": "Tower Stack",
-      "gameUrl": "Tower_Stack",
-      "thumbnailUrl": "Tower_Stack.png"
-    },
-    {
       "gameTitle": "Hover_Board_Effect",
       "gameUrl": "Hover_Board_Effect",
       "thumbnailUrl": "Hover_Board_Effect.png"
@@ -550,11 +569,6 @@
       "gameTitle": "8 Puzzle Game",
       "gameUrl": "8_Puzzle",
       "thumbnailUrl": "8_Puzzle.png"
-    },
-    {
-      "gameTitle": "Align 4 balls",
-      "gameUrl": "Align_4_Game",
-      "thumbnailUrl": "Align_4_Game.png"
     },
     {
       "gameTitle": "Aqua Sort",
@@ -612,11 +626,6 @@
       "thumbnailUrl": "Catch_the_falling_object-1.png"
     },
     {
-      "gameTitle": "Chess Game with Computer",
-      "gameUrl": "Chess_Game_computer",
-      "thumbnailUrl": "chessComputer.png"
-    },
-    {
       "gameTitle": "City Builder",
       "gameUrl": "City_Builder_Game",
       "thumbnailUrl": "City_Builder_Game.png"
@@ -660,11 +669,6 @@
       "gameTitle": "Cross The River",
       "gameUrl": "Cross_The_River_Game",
       "thumbnailUrl": "Cross_The_River.png"
-    },
-    {
-      "gameTitle": "Dinosaur Memory Game",
-      "gameUrl": "Dinosaur_Memory_Game",
-      "thumbnailUrl": "Dinosaur_memory_game.png"
     },
     {
       "gameTitle": "Disney Trivia",
@@ -872,11 +876,6 @@
       "thumbnailUrl": "Sliding_puzzle.png"
     },
     {
-      "gameTitle": "Steampunk FlappyBird",
-      "gameUrl": "Steampunk_FlappyBird",
-      "thumbnailUrl": "Steampunk_FlappyBird.png"
-    },
-    {
       "gameTitle": "Sudoku Light Theme",
       "gameUrl": "Sudoku_light_theme",
       "thumbnailUrl": "Sudoku_light_theme.png"
@@ -910,11 +909,6 @@
       "gameTitle": "TriHand Tactics",
       "gameUrl": "TriHand_Tactics",
       "thumbnailUrl": "TriHand_Tactics.png"
-    },
-    {
-      "gameTitle": "Turn On The Light",
-      "gameUrl": "Turn_on_the_light",
-      "thumbnailUrl": "turnonthelight.jpg"
     },
     {
       "gameTitle": "Virtual Pet",
