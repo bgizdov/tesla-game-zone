@@ -295,11 +295,7 @@
       "gameUrl": "Insect_Catch_Game",
       "thumbnailUrl": "Insect_Catch_Game.webp"
     },
-    {
-      "gameTitle": "Carnival Game",
-      "gameUrl": "Carnival_game",
-      "thumbnailUrl": "Carnival_game.webp"
-    },
+
     {
       "gameTitle": "Make Me Laugh",
       "gameUrl": "Make_Me_Laugh",
@@ -851,16 +847,6 @@
       "thumbnailUrl": "Recognizing_Figures.jpeg"
     },
     {
-      "gameTitle": "Red Light Green Light",
-      "gameUrl": "Red_Light_Green_Light",
-      "thumbnailUrl": "Red_Light_Green_Light.png"
-    },
-    {
-      "gameTitle": "Reflex Game",
-      "gameUrl": "Reflex_Game",
-      "thumbnailUrl": "Reflex_Game.png"
-    },
-    {
       "gameTitle": "Remember The Color",
       "gameUrl": "Remember_the_color",
       "thumbnailUrl": "Remember_the_color.png"
@@ -871,59 +857,9 @@
       "thumbnailUrl": "Reverse_Memory.png"
     },
     {
-      "gameTitle": "Road Car",
-      "gameUrl": "road_car",
-      "thumbnailUrl": "road_car.png"
-    },
-    {
-      "gameTitle": "Rock paper scissor",
-      "gameUrl": "Rock_paper_scissor",
-      "thumbnailUrl": "Rock_paper_scissor.png"
-    },
-    {
       "gameTitle": "Rock Paper Scissors Neon",
       "gameUrl": "Rock_Paper_Scissors_Neon",
       "thumbnailUrl": "Rock_Paper_Scissors_Neon.png"
-    },
-    {
-      "gameTitle": "Roll The Dice",
-      "gameUrl": "Roll_The_Dice",
-      "thumbnailUrl": "Roll_The_Dice.png"
-    },
-    {
-      "gameTitle": "Run Dora Run",
-      "gameUrl": "Run_Dora_Run",
-      "thumbnailUrl": "Run_Dora_Run.png"
-    },
-    {
-      "gameTitle": "Samurai Fighting",
-      "gameUrl": "Samurai_Fighting_Game",
-      "thumbnailUrl": "Samurai Fighting Game.png"
-    },
-    {
-      "gameTitle": "Shape Finder",
-      "gameUrl": "Shape Finder",
-      "thumbnailUrl": "Shape Finder.png"
-    },
-    {
-      "gameTitle": "Shell Game",
-      "gameUrl": "Shell_Game",
-      "thumbnailUrl": "Shell_Game.png"
-    },
-    {
-      "gameTitle": "Shoot Duck Game",
-      "gameUrl": "Shoot_Duck_Game",
-      "thumbnailUrl": "Shoot_Duck_Game.png"
-    },
-    {
-      "gameTitle": "Simon Says",
-      "gameUrl": "simon says",
-      "thumbnailUrl": "Simon_Says.png"
-    },
-    {
-      "gameTitle": "Single Player Solitaire",
-      "gameUrl": "Single_Player_Solitaire",
-      "thumbnailUrl": "Single_Player_Solitaire.png"
     },
     {
       "gameTitle": "Slide Master Puzzle",
@@ -936,51 +872,6 @@
       "thumbnailUrl": "Sliding_puzzle.png"
     },
     {
-      "gameTitle": "Snake",
-      "gameUrl": "snake",
-      "thumbnailUrl": "snake.png"
-    },
-    {
-      "gameTitle": "Snake Bites",
-      "gameUrl": "SnakeBites/snake_Bites.html",
-      "thumbnailUrl": "SnakeBites.png"
-    },
-    {
-      "gameTitle": "Solitaire Up",
-      "gameUrl": "Solitaire_up",
-      "thumbnailUrl": "Solitaire_up.png"
-    },
-    {
-      "gameTitle": "Space Dominators",
-      "gameUrl": "Space_Dominators",
-      "thumbnailUrl": "Space_Dominators.png"
-    },
-    {
-      "gameTitle": "Space Explorer",
-      "gameUrl": "space_explorer",
-      "thumbnailUrl": "Space_Explorer.png"
-    },
-    {
-      "gameTitle": "Space Invaders",
-      "gameUrl": "Space_Invaders",
-      "thumbnailUrl": "Space Invaders.png"
-    },
-    {
-      "gameTitle": "Spell Bee",
-      "gameUrl": "Spell_Bee",
-      "thumbnailUrl": "spell_bee.png"
-    },
-    {
-      "gameTitle": "Spirograph",
-      "gameUrl": "Spirograph",
-      "thumbnailUrl": "Spirograph.png"
-    },
-    {
-      "gameTitle": "Steam Punk",
-      "gameUrl": "Steam_Punk",
-      "thumbnailUrl": "Steam_Punk.png"
-    },
-    {
       "gameTitle": "Steampunk FlappyBird",
       "gameUrl": "Steampunk_FlappyBird",
       "thumbnailUrl": "Steampunk_FlappyBird.png"
@@ -991,34 +882,9 @@
       "thumbnailUrl": "Sudoku_light_theme.png"
     },
     {
-      "gameTitle": "Taash Game",
-      "gameUrl": "Taash Game",
-      "thumbnailUrl": "Taash Game.png"
-    },
-    {
       "gameTitle": "Tech Memory Block",
       "gameUrl": "Tech_Memory_Block",
       "thumbnailUrl": "Tech_Memory_Blocks.png"
-    },
-    {
-      "gameTitle": "Tenzies",
-      "gameUrl": "Tenzies/public",
-      "thumbnailUrl": ""
-    },
-    {
-      "gameTitle": "Test Your Brain",
-      "gameUrl": "test_your_brain",
-      "thumbnailUrl": "TEST_YOUR_BRAIN.png"
-    },
-    {
-      "gameTitle": "Tetris Game",
-      "gameUrl": "Tetris_Game",
-      "thumbnailUrl": "Tetris_Game.png"
-    },
-    {
-      "gameTitle": "Tic Tac Toe Neon",
-      "gameUrl": "Tic_Tic_Toe_Neon",
-      "thumbnailUrl": "Tic_Tac_Toe_Neon.jpg"
     },
     {
       "gameTitle": "Tic Tac Toe Responsive",
@@ -1036,29 +902,9 @@
       "thumbnailUrl": "Tic-Tac-Toe Game.png"
     },
     {
-      "gameTitle": "Touch No Fire",
-      "gameUrl": "Touch-No-Fire-Game",
-      "thumbnailUrl": "Touch-No-Fire-Game.png"
-    },
-    {
       "gameTitle": "Tower Blocks",
       "gameUrl": "Tower_Blocks",
       "thumbnailUrl": "Tower_Blocks.png"
-    },
-    {
-      "gameTitle": "Tower Defence Game",
-      "gameUrl": "Tower_Defence_Game",
-      "thumbnailUrl": "Tower_Defence_Game.png"
-    },
-    {
-      "gameTitle": "Town Rise Game",
-      "gameUrl": "Town_Rise_Game",
-      "thumbnailUrl": "Town_Rise_Game.png"
-    },
-    {
-      "gameTitle": "Treasure Hunt",
-      "gameUrl": "Treasure Hunt",
-      "thumbnailUrl": "Treasure_Hunt.png"
     },
     {
       "gameTitle": "TriHand Tactics",
@@ -1069,16 +915,6 @@
       "gameTitle": "Turn On The Light",
       "gameUrl": "Turn_on_the_light",
       "thumbnailUrl": "turnonthelight.jpg"
-    },
-    {
-      "gameTitle": "Ultimate Football Manager",
-      "gameUrl": "Ultimate_Football_Manager",
-      "thumbnailUrl": "Ultimate Football Manager.png"
-    },
-    {
-      "gameTitle": "UNO With Computer",
-      "gameUrl": "UNO_game_with_Computer",
-      "thumbnailUrl": "UNO_Game_With_Computer.png"
     },
     {
       "gameTitle": "Virtual Pet",
@@ -1096,64 +932,9 @@
       "thumbnailUrl": "Whack_a_Mole_Mario_Version.png"
     },
     {
-      "gameTitle": "Wheel of Fortune",
-      "gameUrl": "Wheel_of_fortune",
-      "thumbnailUrl": "Wheel_of_fortune.jpg"
-    },
-    {
-      "gameTitle": "Wheel of Fortunes",
-      "gameUrl": "Wheel_of_fortunes",
-      "thumbnailUrl": "Wheel_of_Fortunes.png"
-    },
-    {
-      "gameTitle": "Word Association",
-      "gameUrl": "word_association",
-      "thumbnailUrl": "Word_Association.png"
-    },
-    {
       "gameTitle": "Word Shuffle Game",
       "gameUrl": "Word_Shuffle_Game",
       "thumbnailUrl": "Word_Shuffle_Game.png"
-    },
-    {
-      "gameTitle": "Wordling",
-      "gameUrl": "Wordling",
-      "thumbnailUrl": "Wordling.png"
-    },
-    {
-      "gameTitle": "Word Scramble",
-      "gameUrl": "wordScramble",
-      "thumbnailUrl": "Word_Scramble.png"
-    },
-    {
-      "gameTitle": "Word Sprint",
-      "gameUrl": "WordSprint",
-      "thumbnailUrl": "wordsprint.png"
-    },
-    {
-      "gameTitle": "Catch The Falling Stars 2",
-      "gameUrl": "catch_the_falling_stars",
-      "thumbnailUrl": "Catch the Falling Stars.png"
-    },
-    {
-      "gameTitle": "Bulls eye",
-      "gameUrl": "Bulls_eye",
-      "thumbnailUrl": "Bulls_eye.png"
-    },
-    {
-      "gameTitle": "Flappy Birdd",
-      "gameUrl": "Flappy_Birdd",
-      "thumbnailUrl": "Flappy_Bird_Game.webp"
-    },
-    {
-      "gameTitle": "Penalty_Shootout_Game",
-      "gameUrl": "Penalty_Shootout_Game",
-      "thumbnailUrl": "Penalty_Shootout_Game"
-    },
-    {
-      "gameTitle": "Atlas Game",
-      "gameUrl": "Atlas_Game",
-      "thumbnailUrl": "Atlas_Game.png"
     },
     {
       "gameTitle": "Hangman Game",
@@ -1166,9 +947,9 @@
       "thumbnailUrl": "Idle_miner.png"
     },
     {
-      "gameTitle": "Knife Thrower",
-      "gameUrl": "Knife-Thrower",
-      "thumbnailUrl": "Knife-Thrower.png"
+      "gameTitle": "Carnival Game",
+      "gameUrl": "Carnival_game",
+      "thumbnailUrl": "Carnival_game.webp"
     }
   ]
 }
