@@ -7,30 +7,55 @@ import ReactPaginate from 'react-paginate';
 console.log('gamesData', gamesData);
 const items = gamesData.games;
 
+function CardImage({ item }) {
+    const [isLoading, setIsLoading] = useState(true);
+
+    return (
+        <div className="card-image">
+            {isLoading && (
+                <div className="image-placeholder" style={{ width: '100%', height: '175px', backgroundColor: '#ccc', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                    <span>Loading...</span>
+                </div>
+            )}
+            <a href={`/Games/${item.gameUrl}`} target='_blank'>
+                <img
+                    src={`/images/${item.thumbnailUrl}`}
+                    alt={item.gameTitle}
+                    width="100%"
+                    height="175px"
+                    style={{ display: isLoading ? 'none' : 'block' }}
+                    onLoad={() => setIsLoading(false)}
+                />
+            </a>
+        </div>
+    );
+}
+
 function Items({ currentItems }) {
-  return (
-    <>
-      <div class="columns">
-        {currentItems &&
-          currentItems.map((item) => (
-            <div class="column col-3 col-md-6 col-sm-12">
-              <div class="card m-1 p-centered">
-                <div class="card-header">
-                  <a href={`/Games/${item.gameUrl}`} target='_blank'><div class="card-title h5">{item.gameTitle}</div></a>
-                </div>
-                <div class="card-image">
-                  <a href={`/Games/${item.gameUrl}`} target='_blank'>
-                  <img src={`/images/${item.thumbnailUrl}`} alt={item.gameTitle} width="100%" height="175px" /></a>
-                </div>
-                <div class="card-footer">
-                  <a href={`/Games/${item.gameUrl}`}  target='_blank'><button class="btn btn-primary">Play</button></a>
-                </div>
-              </div>
+    return (
+        <>
+            <div className="columns">
+                {currentItems &&
+                    currentItems.map((item) => (
+                        <div className="column col-3 col-md-6 col-sm-12" key={item.gameUrl}>
+                            <div className="card m-1 p-centered">
+                                <div className="card-header">
+                                    <a href={`/Games/${item.gameUrl}`} target='_blank'>
+                                        <div className="card-title h5">{item.gameTitle}</div>
+                                    </a>
+                                </div>
+                                <CardImage item={item} />
+                                <div className="card-footer">
+                                    <a href={`/Games/${item.gameUrl}`} target='_blank'>
+                                        <button className="btn btn-primary">Play</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    ))}
             </div>
-          ))}
-      </div>
-    </>
-  );
+        </>
+    );
 }
 
 function PaginatedItems({ itemsPerPage }) {
