@@ -11,11 +11,6 @@
       "thumbnailUrl": "Cut_the_rope.webp"
     },
     {
-      "gameTitle": "Lights Out !",
-      "gameUrl": "Lights_Out",
-      "thumbnailUrl": "Lights_Out.webp"
-    },
-    {
       "gameTitle": "Rabbit Rush",
       "gameUrl": "Rabbit_Rush",
       "thumbnailUrl": "rabbit.webp"
@@ -26,9 +21,9 @@
       "thumbnailUrl": "Menja.webp"
     },
     {
-      "gameTitle": "Rubik's Solver",
-      "gameUrl": "Rubik's_solver",
-      "thumbnailUrl": "cube_Solver.webp"
+      "gameTitle": "Track Not Found",
+      "gameUrl": "Track_Not_Found",
+      "thumbnailUrl": "Track_Not_Found.jpg"
     },
     {
       "gameTitle": "Bubble Blast Game",
@@ -36,39 +31,14 @@
       "thumbnailUrl": "Bubble_Blast_Game.webp"
     },
     {
-      "gameTitle": "Black Jack",
-      "gameUrl": "Black_Jack",
-      "thumbnailUrl": "Black_Jack.webp"
-    },
-    {
-      "gameTitle": "Track Not Found",
-      "gameUrl": "Track_Not_Found",
-      "thumbnailUrl": "Track_Not_Found.jpg"
-    },
-    {
-      "gameTitle": "Retro Dungeon Puzzle",
-      "gameUrl": "Retro_Dungeon_Puzzle",
-      "thumbnailUrl": "Retro_Dungeon_Puzzle.webp"
-    },
-    {
-      "gameTitle": "Oh Flip",
-      "gameUrl": "oh_flip",
-      "thumbnailUrl": "oh_flip.webp"
-    },
-    {
       "gameTitle": "AI Chess",
       "gameUrl": "AI_CHESS_Game",
       "thumbnailUrl": "chess.webp"
     },
     {
-      "gameTitle": "flappy Bubble Sofa",
-      "gameUrl": "Flappy_Bubble_Sofa",
-      "thumbnailUrl": "Flappy_Bubble_Sofa.png"
-    },
-    {
-      "gameTitle": "Simon Game",
-      "gameUrl": "Simon_Game_Challenge",
-      "thumbnailUrl": "Simon-game.webp"
+      "gameTitle": "Rubik's Solver",
+      "gameUrl": "Rubik's_solver",
+      "thumbnailUrl": "cube_Solver.webp"
     },
     {
       "gameTitle": "Hextris",
@@ -89,6 +59,36 @@
       "gameTitle": "Tower Stack",
       "gameUrl": "Tower_Stack",
       "thumbnailUrl": "Tower_Stack.png"
+    },
+    {
+      "gameTitle": "Lights Out !",
+      "gameUrl": "Lights_Out",
+      "thumbnailUrl": "Lights_Out.webp"
+    },
+    {
+      "gameTitle": "Retro Dungeon Puzzle",
+      "gameUrl": "Retro_Dungeon_Puzzle",
+      "thumbnailUrl": "Retro_Dungeon_Puzzle.webp"
+    },
+    {
+      "gameTitle": "Oh Flip",
+      "gameUrl": "oh_flip",
+      "thumbnailUrl": "oh_flip.webp"
+    },
+    {
+      "gameTitle": "Wildcard Bonanza",
+      "gameUrl": "Wildcard_Bonanza",
+      "thumbnailUrl": "Wildcard_Bonanza.webp"
+    },
+    {
+      "gameTitle": "flappy Bubble Sofa",
+      "gameUrl": "Flappy_Bubble_Sofa",
+      "thumbnailUrl": "Flappy_Bubble_Sofa.png"
+    },
+    {
+      "gameTitle": "Simon Game",
+      "gameUrl": "Simon_Game_Challenge",
+      "thumbnailUrl": "Simon-game.webp"
     },
     {
       "gameTitle": "Align 4 balls",
@@ -119,6 +119,11 @@
       "gameTitle": "Dinosaur Memory Game",
       "gameUrl": "Dinosaur_Memory_Game",
       "thumbnailUrl": "Dinosaur_memory_game.png"
+    },
+    {
+      "gameTitle": "Black Jack",
+      "gameUrl": "Black_Jack",
+      "thumbnailUrl": "Black_Jack.webp"
     },
     {
       "gameTitle": "Whack a Mole",
@@ -204,11 +209,6 @@
       "gameTitle": "Snake Ladder",
       "gameUrl": "Snake_Ladder",
       "thumbnailUrl": "snake_and_ladder.webp"
-    },
-    {
-      "gameTitle": "Wildcard Bonanza",
-      "gameUrl": "Wildcard_Bonanza",
-      "thumbnailUrl": "Wildcard_Bonanza.webp"
     },
     {
       "gameTitle": "Space Exploration",
