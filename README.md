@@ -1,6 +1,6 @@
 <div style="display:none;" align="center"><h1>
 <a href="https://tesla.apirobots.pro">
-  <img src="https://github.com/bgizdov/tesla-game-zone/blob/main/public/tesla-game-zone-2.png?raw=true" alt="Video Game" width="200" height="200" />
+  <img src="https://github.com/apirobots/tesla-game-zone/blob/main/public/tesla-game-zone-2.png?raw=true" alt="Video Game" width="200" height="200" />
 </a>
   <br />
   <a href="https://tesla.apirobots.pro"><h1>Tesla Game Zone</h1></a>
