@@ -117,7 +117,6 @@ function PaginatedItems({ itemsPerPage }) {
         pageLinkClassName='text-secondary'
         breakClassName='page-item float-left'
       />
-        <br />
     </>
   );
 }
