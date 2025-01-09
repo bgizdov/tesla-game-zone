@@ -11,9 +11,19 @@ function CardImage({ item }) {
     const [isLoading, setIsLoading] = useState(true);
 
     return (
-        <div className="card-image">
+        <div className="card-image" style={{width: '100%', height: '175px', position: 'relative'}}>
             {isLoading && (
-                <div className="image-placeholder" style={{ width: '100%', height: '175px', backgroundColor: '#ccc', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <div className="image-placeholder" style={{
+                    width: '100%',
+                    height: '100%',
+                    backgroundColor: '#ccc',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    position: 'absolute',
+                    top: 0,
+                    left: 0
+                }}>
                     <span>Loading...</span>
                 </div>
             )}
@@ -21,9 +31,14 @@ function CardImage({ item }) {
                 <img
                     src={`/images/${item.thumbnailUrl}`}
                     alt={item.gameTitle}
-                    width="100%"
-                    height="175px"
-                    style={{ display: isLoading ? 'none' : 'block' }}
+                    style={{
+                        width: '100%',
+                        height: '100%',
+                        objectFit: 'contain',
+                        display: isLoading ? 'none' : 'block',
+                        position: 'absolute',
+                        bottom: 0
+                    }}
                     onLoad={() => setIsLoading(false)}
                 />
             </a>
@@ -31,7 +46,7 @@ function CardImage({ item }) {
     );
 }
 
-function Items({ currentItems }) {
+function Items({currentItems}) {
     return (
         <>
             <div className="columns">
